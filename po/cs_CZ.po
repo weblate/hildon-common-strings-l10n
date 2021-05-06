@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Všechny položky již označeny"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_game"
+msgstr "Odstranit hru?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Odstranit"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Zrušit"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Nelze změnit velikost zobrazení"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Dokument již používá jiná aplikace"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Nejprve vložte hodnotu"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Nejprve vložte text"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Soubor již používá jiná aplikace"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "Dokument HTML již používá jiná aplikace"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Neplatný znak"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Obrázek již používá jiná aplikace"
+
+msgid "ckct_ib_letters_only"
+msgstr "V tomto poli povolena pouze písmena"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Hodnota musí být definována"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Dosažena maximální velikost zobrazení"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Zprávu již používá jiná aplikace"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Dosažena minimální velikost zobrazení"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Nic k odstranění"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Nic pro přesun"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Nic pro otevření"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Nic k výběru"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Nic pro krok zpět"
+
+msgid "ckct_ib_numbers_only"
+msgstr "V tomto poli povolena pouze čísla"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Vyberte jen 1 položku"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " Datum začátku musí předcházet datu konce "
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Čas začátku musí předcházet času konce"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Audioklip již používá jiná aplikace"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Nelze kopírovat"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Nelze vyjmout"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Nelze odstranit"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Nelze vložit sem"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Nelze vzít zpět"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Neznámý typ souboru"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Videoklip již používá jiná aplikace"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Dokument XML již používá jiná aplikace"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Odstranit aplikaci?\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Odstranit záložku?\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Odstranit certifikát?\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Odstranit kontakt?\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Odstranit dokument?\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Odstranit záznam?\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Odstranit soubor?\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Odstranit složku a veškerý její obsah?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Odstranit složku a vybraný soubor?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Odstranit vybrané složky a vybraný soubor?"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"Odstranit dokument HTML?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Odstranit obrázek?\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Odstranit zástupce?\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Odstranit zprávu?\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Odstranit poznámku?\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Odstranit objekt?\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Odstranit vybrané aplikace?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Odstranit vybrané záložky?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Odstranit vybrané certifikáty?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Odstranit vybrané dokumenty?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Odstranit vybrané soubory?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Odstranit vybrané složky a veškerý jejich obsah?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Odstranit vybrané dokumenty HTML?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Odstranit vybrané obrázky?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Odstranit vybrané zástupce?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Odstranit vybrané zprávy?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Odstranit vybrané zvukové klipy?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Odstranit vybrané videoklipy?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Odstranit vybrané dokumenty XML?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Odstranit audioklip?\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Odstranit videoklip?\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"Odstranit dokument XML?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"Ukládání přerušeno.\n"
+"Kryt paměťové karty otevřený."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Nelze otevřít.\n"
+"Soubor poškozen."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Nelze otevřít.\n"
+"Nepodporovaný formát souboru."
+
+msgid "ckct_nw_pasting"
+msgstr "Vkládání"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Zrušit"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Vypnout"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Název aplikace se již používá"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Aplikace pouze pro čtení"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Název záložky se již používá"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Záložka pouze pro čtení"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Název certifikátu se již používá"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Certifikát pouze pro čtení"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Nejprve vložte uživatelské jméno"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Nesprávné uživatelské jméno"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Název dokumentu se již používá"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Nejprve vložte název"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Název souboru se již používá"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Soubor pouze pro čtení"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Název složky se již používá"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Hra pouze pro čtení"
+
+msgid "ckdg_ib_html_exists"
+msgstr "Název dokumentu HTML se již používá"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "Dokument HTML pouze pro čtení"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Pole nemůže obsahovat „%s“"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Název obrázku se již používá"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Obrázek pouze pro čtení"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Název zástupce se již používá"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Zástupce pouze pro čtení"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Dosažen maximální počet znaků"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Název zprávy se již používá"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Zpráva pouze pro čtení"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Nic pro zrušení označení"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Nic pro duplikaci"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Nic pro přejmenování"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Nic pro odeslání"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Nic pro třídění"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Audioklip pouze pro čtení"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Název audioklipu se již používá"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Nelze kopírovat složku do téže složky"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Nelze kopírovat nebo přesunout podsložku do původní složky"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Nelze označit tuto položku"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Nelze přesunout složku do téže složky"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Nelze přesunout do současného umístění"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Nelze vložit do původního umístění"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Nelze přejmenovat"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Nelze zrušit označení této položky"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Videoklip pouze pro čtení"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Název videoklipu se již používá"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Název dokumentu XML se již používá"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "Dokument XML pouze pro čtení"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Vypnout ochranu heslem?"
+
+msgid "ckdg_pb_updating"
+msgstr "Aktualizace"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Vložte hledaný text"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Nejprve vložte heslo"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Heslo neodpovídá"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Nesprávné heslo"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Nenalezeny žádné shody"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Zkopírováno"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Dokument pouze pro čtení"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Nic ke kopírování"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Nic k vyjmutí"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Nic k vložení"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Nic pro krok zpět"
+
+msgid "file_ib_name_too_long"
+msgstr "Příliš dlouhý název"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Nic pro zobrazení"
+
+msgid "sfil_ib_saved"
+msgstr "Uloženo"
+
+msgid "sfil_ib_saving"
+msgstr "Ukládání"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Nelze kopírovat nebo přesunout podsložku do původní složky"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Nelze vyjmout vybranou složku"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Nelze vyjmout vybrané položky"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Nelze odstranit vybranou složku"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Nelze odstranit vybrané položky"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Nelze přesunout vybranou složku"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Nelze přesunout vybrané položky"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Nelze otevřít.\n"
+"Složka nenalezena."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Nelze přejmenovat vybranou složku"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Nelze odeslat"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Nelze odeslat složky"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Uložit před ukončením?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Zrušit"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Ne"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Ano"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Nelze pokračovat.\n"
+"Složka nenalezena."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Otevírání přerušeno.\n"
+"Kryt paměťové karty je otevřený."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Otevírání přerušeno.\n"
+"Nenavázáno připojení."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Složka nenalezena.\n"
+"Přístroj zvolil jinou složku."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Nedostatek paměti v cílovém umístění"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Operace se nezdařila"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Nelze otevřít.\n"
+"Soubor nenalezen."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Nelze otevřít.\n"
+"Soubor příliš velký."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Nelze přejmenovat.\n"
+"Soubor nenalezen."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"

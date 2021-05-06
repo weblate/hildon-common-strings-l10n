@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Alle items al gemarkeerd"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_game"
+msgstr "Spel verwijderen?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Verwijderen"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Annuleren"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Kan niet in- of uitzoomen"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Document wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Voer eerst de waarde in"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Voer eerst de tekst in"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Bestand wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML-document wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Ongeldig teken"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Afbeelding wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_letters_only"
+msgstr "Alleen letters toegestaan in dit veld"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Waarde moet worden gedefinieerd"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Maximaal zoomniveau bereikt"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Bericht wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Minimaal zoomniveau bereikt"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Niets om te verwijderen"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Niets om te verplaatsen"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Niets om te openen"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Niets om te selecteren"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Niets om ongedaan te maken"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Alleen cijfers toegestaan in dit veld"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Selecteer slechts 1 item"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " Begindatum moet vóór einddatum vallen "
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Starttijd moet vóór eindtijd vallen"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Geluidsclip wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Kan niet kopiëren"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Kan niet knippen"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Kan niet verwijderen"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Kan hier niet plakken"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Kan niet ongedaan maken"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Onbekend bestandstype"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Videoclip wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML-document wordt al gebruikt door een andere toepassing"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Toepassing verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Favoriet verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Certificaat verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Contactpersoon verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Document verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Invoer verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Bestand verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Map met hele inhoud verwijderen?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Map en geselecteerd bestand verwijderen?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Geselecteerde mappen en geselecteerd bestand verwijderen?"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"HTML-document verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Afbeelding verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Snelkoppeling verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Bericht(en) verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Notitie verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Object verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Geselecteerde toepassingen verwijderen?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Geselecteerde favorieten verwijderen?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Geselecteerde certificaten verwijderen?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Geselecteerde documenten verwijderen?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Geselecteerde bestanden verwijderen?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Geselecteerde mappen en hun inhoud verwijderen?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Geselecteerde HTML-documenten verwijderen?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Geselecteerde afbeeldingen verwijderen?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Geselecteerde snelkoppelingen verwijderen?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Geselecteerde berichten verwijderen?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Geselecteerde geluidsclips verwijderen?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Geselecteerde videoclips verwijderen?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Geselecteerde XML-documenten verwijderen?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Geluidsclip verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Videoclip verwijderen?\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"XML-document verwijderen?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"Opslaan onderbroken.\n"
+"Klepje van geheugenkaart open."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Kan niet openen.\n"
+"Bestand beschadigd."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Kan niet openen.\n"
+"Bestandsindeling wordt niet ondersteund."
+
+msgid "ckct_nw_pasting"
+msgstr "Bezig met plakken"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Annuleren"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Verwijderen"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Naam van toepassing wordt al gebruikt"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Toepassing is alleen-lezen"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Naam van favoriet wordt al gebruikt"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Favoriet is alleen-lezen"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Naam van certificaat wordt al gebruikt"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Certificaat is alleen-lezen"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Voer eerst de gebruikersnaam in"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Onjuiste gebruikersnaam"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Naam van document wordt al gebruikt"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Voer eerst de naam in"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Bestandsnaam wordt al gebruikt"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Bestand is alleen-lezen"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Mapnaam wordt al gebruikt"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Spel is alleen-lezen"
+
+msgid "ckdg_ib_html_exists"
+msgstr "Naam van HTML-document wordt al gebruikt"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML-document is alleen-lezen"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Veld kan niet de volgende tekens bevatten: '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Naam van afbeelding wordt al gebruikt"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Afbeelding is alleen-lezen"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Naam van snelkoppeling wordt al gebruikt"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Snelkoppeling is alleen-lezen"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Maximaal aantal tekens bereikt"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Naam van bericht wordt al gebruikt"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Bericht is alleen-lezen"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Geen markering om op te heffen"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Niets om te dupliceren"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Geen naam om te wijzigen"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Niets om te verzenden"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Niets om te sorteren"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Geluidsclip is alleen-lezen"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Naam van geluidsclip wordt al gebruikt"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Kan map niet naar zichzelf kopiëren"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Kan geen submap kopiëren of verplaatsen binnen de oorspronkelijke map"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Kan dit item niet markeren"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Kan map niet naar zichzelf verplaatsen"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Kan niet verplaatsen naar huidige locatie"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Kan niet plakken in oorspronkelijke locatie"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Kan naam niet wijzigen"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Kan de markering van dit item niet opheffen"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Videoclip is alleen-lezen"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Naam van videoclip wordt al gebruikt"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Naam van XML-document wordt al gebruikt"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "XML-document is alleen-lezen"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Wachtwoordbescherming verwijderen?"
+
+msgid "ckdg_pb_updating"
+msgstr "Bijwerken"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Voer de zoektekst in"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Voer eerst het wachtwoord in"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Wachtwoord onjuist"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Geen treffers gevonden"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Gekopieerd"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Document is alleen-lezen"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Niets om te kopiëren"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Niets om te knippen"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Niets om te plakken"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Niets om ongedaan te maken"
+
+msgid "file_ib_name_too_long"
+msgstr "Naam te lang"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Niets om weer te geven"
+
+msgid "sfil_ib_saved"
+msgstr "Opgeslagen"
+
+msgid "sfil_ib_saving"
+msgstr "Bezig met opslaan"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Kan geen submap kopiëren of verplaatsen binnen de oorspronkelijke map"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Kan geselecteerde map niet knippen"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Kan geselecteerde items niet knippen"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Kan geselecteerde map niet verwijderen"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Kan geselecteerde items niet verwijderen"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Kan geselecteerde map niet verplaatsen"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Kan geselecteerde items niet verplaatsen"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Kan niet openen.\n"
+"Map niet gevonden."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Kan de naam van de geselecteerde map niet wijzigen"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Kan niet verzenden"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Kan mappen niet verzenden"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Bestand opslaan alvorens te sluiten?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Annuleren"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Nee"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Ja"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Kan niet doorgaan.\n"
+"Map niet gevonden."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Openen onderbroken.\n"
+"Klep van geheugenkaart open."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Openen onderbroken.\n"
+"Geen verbinding."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Map niet gevonden.\n"
+"Apparaat geschakeld naar andere map."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Onvoldoende geheugen in doellocatie"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Bewerking is mislukt"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Kan niet openen.\n"
+"Bestand niet gevonden."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Kan niet openen.\n"
+"Bestand te groot."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Kan naam niet wijzigen.\n"
+"Bestand niet gevonden."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"

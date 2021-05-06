@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Alle elementer er allerede markeret"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_game"
+msgstr "Slet spil?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Annuller"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Slet"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Annuller"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Kan ikke zoome"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Dokumentet benyttes allerede af et andet program"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Indtast værdi først"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Indtast tekst først"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Filen benyttes allerede af et andet program"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML-dokumentet benyttes allerede af et andet program"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Ugyldigt tegn"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Billedet benyttes allerede af et andet program"
+
+msgid "ckct_ib_letters_only"
+msgstr "Kun bogstaver er tilladt i dette felt"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Værdien skal defineres"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Maks. zoom-niveau nået"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Beskeden benyttes allerede af et andet program"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Min. zoom-niveau nået"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Intet at slette"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Intet at flytte"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Intet at åbne"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Intet at vælge"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Intet at fortryde"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Kun tal er tilladt i dette felt"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Vælg kun 1 element"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " Startdatoen skal ligge før slutdatoen "
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Starttidspunktet skal ligge før sluttidspunktet"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Lydklippet benyttes allerede af et andet program"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Kan ikke kopiere"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Kan ikke klippe"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Kan ikke slette"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Kan ikke indsætte her"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Intet at fortryde"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Ukendt filtype"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Videoklippet benyttes allerede af et andet program"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML-dokumentet benyttes allerede af et andet program"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Slet program?\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Slet bogmærke?\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Slet certifikat?\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Slet kontakt?\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Slet dokument?\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Slet post?\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Slet fil?\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Slet mappen og hele dens indhold?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Slet mappe og valgt fil?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Slet valgte mapper og valgt fil?"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"Slet HTML-dokument?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Slet billede?\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Slet genvej?\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Slet besked?\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Slet note?\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Slet objekt?\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Slet valgte programmer?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Slet valgte bogmærker?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Slet valgte certifikater?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Slet valgte dokumenter?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Slet valgte filer?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Slet valgte mapper og alt deres indhold?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Slet valgte HTML-dokumenter?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Slet valgte billeder?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Slet valgte genveje?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Slet valgte beskeder?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Slet valgte lydklip?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Slet valgte videoklip?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Slet valgte XML-dokumenter?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Slet lydklip?\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Slet videoklip?\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"Slet XML-dokument?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"Lagring blev afbrudt.\n"
+"Dækslet til hukommelseskortet er åbent."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Filen er beskadiget."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Filformatet er ikke understøttet."
+
+msgid "ckct_nw_pasting"
+msgstr "Indsætter"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Annuller"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Fjern"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Programnavnet er allerede i brug"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Programmet er skrivebeskyttet"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Bogmærkenavnet er allerede i brug"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Bogmærket er skrivebeskyttet"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Certifikatnavnet er allerede i brug"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Certifikatet er skrivebeskyttet"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Indtast brugernavn først"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Forkert brugernavn"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Dokumentnavnet er allerede i brug"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Indtast navn først"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Filnavnet er allerede i brug"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Filen er skrivebeskyttet"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Mappenavnet er allerede i brug"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Spillet er skrivebeskyttet"
+
+msgid "ckdg_ib_html_exists"
+msgstr "HTML-dokumentnavnet er allerede i brug"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML-dokumentet er skrivebeskyttet"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Feltet kan ikke indeholde %s"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Billednavnet er allerede i brug"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Billedet er skrivebeskyttet"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Genvejsnavnet er allerede i brug"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Genvejen er skrivebeskyttet"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Det maksimale antal tegn nået"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Beskednavnet er allerede i brug"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Beskeden er skrivebeskyttet"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Intet at afmarkere"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Intet at duplikere"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Intet at omdøbe"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Intet at sende"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Intet at sortere"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Lydklippet er skrivebeskyttet"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Lydklipnavnet er allerede i brug"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Kan ikke kopiere mappen til sig selv"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Kan ikke kopiere eller flytte en undermappe i den originale mappe"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Kan ikke markere dette element"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Kan ikke flytte mappen til sig selv"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Kan ikke flytte til det aktuelle sted"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Kan ikke indsætte på den lokale placering"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Kan ikke omdøbe"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Kan ikke afmarkere dette element"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Videoklippet er skrivebeskyttet"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Videoklipnavnet er allerede i brug"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "XML-dokumentnavnet er allerede i brug"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "XML-dokumentet er skrivebeskyttet"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Fjern adgangskodebeskyttelse?"
+
+msgid "ckdg_pb_updating"
+msgstr "Opdaterer"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Indtast den tekst, der skal findes"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Indtast adgangskode først"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Adgangskoderne er ikke ens"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Forkert adgangskode"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Ingen forekomster"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Kopieret"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Dokumentet er skrivebeskyttet"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Intet at kopiere"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Intet at klippe"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Intet at indsætte"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Intet at fortryde"
+
+msgid "file_ib_name_too_long"
+msgstr "Navnet er for langt"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Intet at vise"
+
+msgid "sfil_ib_saved"
+msgstr "Gemt"
+
+msgid "sfil_ib_saving"
+msgstr "Gemmer"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Kan ikke kopiere eller flytte en undermappe i den originale mappe"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Kan ikke klippe den valgte mappe"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Kan ikke klippe valgte elementer"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Kan ikke slette den valgte mappe"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Kan ikke slette valgte elementer"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Kan ikke flytte den valgte mappe"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Kan ikke flytte valgte elementer"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Mappen blev ikke fundet."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Kan ikke omdøbe den valgte mappe"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Kan ikke sende"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Kan ikke sende mapper"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Gem fil før du lukker?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Annuller"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Nej"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Ja"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Kan ikke fortsætte.\n"
+"Mappen blev ikke fundet."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Åbning blev afbrudt.\n"
+"Dækslet til hukommelseskortet er åbent."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Åbning blev afbrudt.\n"
+"Ingen forbindelse."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Mappen blev ikke fundet.\n"
+"Enheden skiftede til en anden mappe."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Ikke tilstrækkelig hukommelse på målplaceringen"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Handlingen mislykkedes"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Filen blev ikke fundet."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Filen er for stor."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Kan ikke omdøbe.\n"
+"Filen blev ikke fundet."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"

@@ -1,0 +1,796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Все объекты уже отмечены"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_game"
+msgstr "Удалить игру?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Отмена"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Удалить"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Отмена"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Не удается изменить масштаб"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Документ уже используется другим приложением"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Сначала введите значение"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Сначала введите текст"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Файл уже используется другим приложением"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "Документ HTML уже используется другим приложением"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Неверный символ"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Изображение уже используется другим приложением"
+
+msgid "ckct_ib_letters_only"
+msgstr "В этом поле допустимы только буквы"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Значение должно быть задано"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Достигнут максимум масштаба"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Сообщение уже используется другим приложением"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Достигнут минимум масштаба"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Нечего удалять"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Нечего перемещать"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Нечего открывать"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Нечего выбирать"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Нечего отменять"
+
+msgid "ckct_ib_numbers_only"
+msgstr "В этом поле допустимы только цифры"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Выберите только 1 объект"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " Начальная дата должна быть меньше конечной "
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Начальное время должно быть меньше конечного времени"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Аудиоклип уже используется другим приложением"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Не удается скопировать"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Не удается вырезать"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Не удается удалить."
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Не удается вставить"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Не удается отменить"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Неизвестный тип файла"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Видеоклип уже используется другим приложением"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Документ XML уже используется другим приложением"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Удалить приложение?\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Удалить закладку?\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Удалить сертификат?\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Удалить контакт?\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Удалить документ?\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Удалить запись?\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Удалить файл?\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Удалить папку и ее содержимое?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Удалить папку и выбранный файл?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Удалить выбранные папки и выбранный файл?"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"Удалить документ HTML?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Удалить изображение?\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Удалить ярлык?\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Удалить сообщение?\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Удалить заметку?\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Удалить объект?\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Удалить выбранные приложения?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Удалить выбранные закладки?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Удалить выбранные сертификаты?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Удалить выбранные документы?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Удалить выбранные файлы?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Удалить выбранные папки и все их содержимое?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Удалить выбранные документы HTML?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Удалить выбранные изображения?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Удалить выбранные ярлыки?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Удалить выбранные сообщения?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Удалить выбранные аудиоклипы?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Удалить выбранные видеоклипы?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Удалить выбранные документы XML?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Удалить аудиоклип?\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Удалить видеоклип?\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"Удалить документ XML?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"Сохранение прервано.\n"
+"Крышка карты памяти открыта."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Невозможно открыть.\n"
+"Файл поврежден."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Не удается открыть.\n"
+"Формат файла не поддерживается."
+
+msgid "ckct_nw_pasting"
+msgstr "Вставка"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Отмена"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Удалить"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Имя приложения уже используется"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Приложение только для чтения"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Имя закладки уже используется"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Закладка только для чтения"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Имя сертификата уже используется"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Сертификат только для чтения"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Сначала введите имя пользователя"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Неверное имя пользователя"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Имя документа уже используется"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Сначала введите имя"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Имя файла уже используется"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Файл только для чтения"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Имя папки уже используется"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Игра только для чтения"
+
+msgid "ckdg_ib_html_exists"
+msgstr "Имя документа HTML уже используется"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "Документ HTML только для чтения"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Поле не может содержать %s"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Имя изображения уже используется"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Изображение только для чтения"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Имя закладки уже используется"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Ярлык только для чтения"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Достигнуто максимальное число знаков"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Имя сообщения уже используется"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Сообщение только для чтения"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Нет отмеченных объектов"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Нечего дублировать"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Нечего переименовывать"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Нечего отправлять"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Нечего сортировать"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Аудиоклип только для чтения"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Имя аудиоклипа уже используется"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Невозможно копировать папку саму в себя"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Не удается скопировать или переместить вложенную папку в исходную"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Не удается отметить данный объект"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Невозможно переместить папку саму в себя"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Не удается переместить в текущее расположение"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Не удается вставить в исходное расположение"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Не удается переименовать"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Не удается снять отметку данного объекта"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Видеоклип только для чтения"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Имя видеоклипа уже используется"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Имя документа XML уже используется"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "Документ XML только для чтения"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Удалить защиту паролем?"
+
+msgid "ckdg_pb_updating"
+msgstr "Обновление"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Введите текст для поиска"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Сначала введите пароль"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Несоответствие паролей"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Неверный пароль"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Совпадений не найдено"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Копировано"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Документ только для чтения"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Нечего копировать"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Нечего вырезать"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Нечего вставлять"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Нечего отменять"
+
+msgid "file_ib_name_too_long"
+msgstr "Слишком длинное имя"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Нечего просматривать"
+
+msgid "sfil_ib_saved"
+msgstr "Сохранено"
+
+msgid "sfil_ib_saving"
+msgstr "Сохранение"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Не удается скопировать или переместить вложенную папку в исходную"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Не удается вырезать выбранную папку"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Не удается вырезать выбранные объекты"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Не удается удалить выбранную папку"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Не удается удалить выбранные объекты"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Не удается переместить выбранную папку"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Не удается переместить выбранные объекты"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Невозможно открыть.\n"
+"Папка не найдена."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Не удается переименовать выбранную папку"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Не удается отправить"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Не удается отправить папки"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Сохранить файл перед закрытием?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Отмена"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Нет"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Да"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Не удается продолжить.\n"
+"Папка не найдена."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Открытие прервано.\n"
+"Крышка карты памяти открыта."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Открытие прервано.\n"
+"Нет соединения."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Папка не найдена.\n"
+"Устройство переключено на другую папку."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Недостаточно памяти в выбранном расположении"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Сбой операции."
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Невозможно открыть.\n"
+"Файл не найден."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Невозможно открыть.\n"
+"Файл слишком велик."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Не удается переименовать.\n"
+"Файл не найден."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"

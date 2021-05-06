@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Kaikki kohteet on jo valittu"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_game"
+msgstr "Poistetaanko peli?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Poista"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Peruuta"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Ei voi suurentaa tai pienentää"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Toinen sovellus käyttää dokumenttia"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Kirjoita ensin arvo"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Kirjoita ensin teksti"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Toinen sovellus käyttää tiedostoa"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "Toinen sovellus käyttää HTML-dokumenttia"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Virheellinen merkki"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Toinen sovellus käyttää kuvaa"
+
+msgid "ckct_ib_letters_only"
+msgstr "Tähän kenttään voi kirjoittaa vain kirjaimia"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Arvo on määritettävä"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Ei voi enää suurentaa"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Toinen sovellus käyttää viestiä"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Ei voi enää pienentää"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Ei poistettavaa"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Ei siirrettävää"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Ei avattavaa"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Ei valittavaa"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Ei kumottavaa"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Tähän kenttään voi kirjoittaa vain numeroita"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Valitse vain 1 kohde"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " Aloituspäivän pitää olla ennen lopetuspäivää "
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Aloitusajan on oltava ennen lopetusaikaa"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Toinen sovellus käyttää äänileikettä"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Ei voi kopioida"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Ei voi leikata"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Ei voi poistaa"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Tietoja ei voi liittää tähän"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Ei voi kumota"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Tuntematon tiedostotyyppi"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Toinen sovellus käyttää videoleikettä"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Toinen sovellus käyttää XML-dokumenttia"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Poistetaanko sovellus?\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Poistetaanko kirjanmerkki?\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Poistetaanko varmenne?\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Poistetaanko yhteystieto?\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Poistetaanko dokumentti?\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Poistetaanko tiedot?\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Poistetaanko tiedosto?\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Poistetaanko kansio ja sen koko sisältö?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Poistetaanko kansio ja valittu tiedosto?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Poistetaanko valitut kansiot ja valittu tiedosto?"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"Poistetaanko HTML-dokumentti?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Poistetaanko kuva?\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Poistetaanko linkki?\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Poistetaanko viesti?\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Poistetaanko huomautus?\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Poistetaanko objekti?\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Poistetaanko valitut sovellukset?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Poistetaanko valitut kirjanmerkit?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Poistetaanko valitut varmenteet?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Poistetaanko valitut dokumentit?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Poistetaanko valitut tiedostot?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Poistetaanko valitut kansiot ja niiden koko sisältö?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Poistetaanko valitut HTML-dokumentit?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Poistetaanko valitut kuvat?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Poistetaanko valitut linkit?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Poistetaanko valitut viestit?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Poistetaanko valitut äänileikkeet?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Poistetaanko valitut videoleikkeet?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Poistetaanko valitut XML-dokumentit?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Poistetaanko äänileike?\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Poistetaanko videoleike?\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"Poistetaanko XML-dokumentti?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"Tallentaminen keskeytyi.\n"
+"Muistikortin kansi on auki."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedosto vioittunut."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedostomuotoa ei tueta."
+
+msgid "ckct_nw_pasting"
+msgstr "Liitetään"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Peruuta"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Siirrä pois"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Sovelluksen nimi on jo käytössä"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Sovellukseen on vain lukuoikeudet"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Kirjanmerkin nimi on jo käytössä"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Kirjanmerkkiin on vain lukuoikeudet"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Varmenteen nimi on jo käytössä"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Varmenteeseen on vain lukuoikeudet"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Kirjoita ensin käyttäjänimi"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Virheellinen käyttäjänimi"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Dokumentin nimi on jo käytössä"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Kirjoita ensin nimi"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Tiedoston nimi on jo käytössä"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Tiedostoon on vain lukuoikeudet"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Kansion nimi on jo käytössä"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Peliin on vain lukuoikeudet"
+
+msgid "ckdg_ib_html_exists"
+msgstr "HTML-dokumentin nimi on jo käytössä"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML-dokumenttiin on vain lukuoikeudet"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Kentässä ei voi olla %s"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Kuvan nimi on jo käytössä"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Kuvaan on vain lukuoikeudet"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Linkin nimi on jo käytössä"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Linkkiin on vain lukuoikeudet"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Merkkejä enimmäismäärä"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Viestin nimi on jo käytössä"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Viestiin on vain lukuoikeudet"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Ei poistettavaa valintaa"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Ei monistettavaa"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Ei uudelleen nimettävää"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Ei lähetettävää"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Ei järjestettävää"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Äänileikkeeseen on vain lukuoikeudet"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Äänileikkeen nimi on jo käytössä"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Kansiota ei voi kopioida itseensä"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Alkuperäisen kansion alikansiota ei voi kopioida tai siirtää"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Kohdetta ei voi valita"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Kansiota ei voi siirtää itseensä"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Ei voi siirtää nykyiseen sijaintiin"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Tietoja ei voi liittää alkuperäiseen sijaintiin"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Ei voi nimetä uudelleen"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Kohteen valintaa ei voi poistaa"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Videoleikkeeseen on vain lukuoikeudet"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Videoleikkeen nimi on jo käytössä"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "XML-dokumentin nimi on jo käytössä"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "XML-dokumenttiin on vain lukuoikeudet"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Poistetaanko salasanasuojaus?"
+
+msgid "ckdg_pb_updating"
+msgstr "Päivitetään"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Kirjoita etsittävä teksti"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Kirjoita ensin salasana"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Salasanat eivät täsmää"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Väärä salasana"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Ei osumia"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Kopioitu"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Dokumenttiin on vain lukuoikeudet"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Ei kopioitavaa"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Ei leikattavaa"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Ei liitettävää"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Ei kumottavaa"
+
+msgid "file_ib_name_too_long"
+msgstr "Nimi on liian pitkä"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Ei katseltavaa"
+
+msgid "sfil_ib_saved"
+msgstr "Tallennettu"
+
+msgid "sfil_ib_saving"
+msgstr "Tallentaa"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Alkuperäisen kansion alikansiota ei voi kopioida tai siirtää"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Valittua kansiota ei voi leikata"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Valittuja kohteita ei voi leikata"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Valittua kansiota ei voi poistaa"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Valittuja kohteita ei voi poistaa"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Valittua kansiota ei voi siirtää"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Valittuja kohteita ei voi siirtää"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedostoa ei löydy."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Valittua kansiota ei voi nimetä uudelleen"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Ei voi lähettää"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Kansioita ei voi lähettää"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Tallennetaanko tiedosto ennen sulkemista?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Peruuta"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Ei"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Kyllä"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Ei voi jatkaa.\n"
+"Kansiota ei löydy."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Avaaminen keskeytyi.\n"
+"Muistikortin kansi on auki."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Avaaminen epäonnistui.\n"
+"Ei yhteyttä."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Kansiota ei löydy.\n"
+"Laite siirretty toiseen kansioon."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Kohdesijainnin muisti ei riitä"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Toiminto ei onnistunut"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedostoa ei löydy."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedosto on liian suuri."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Ei voi nimetä uudelleen.\n"
+"Tiedostoa ei löydy."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"
