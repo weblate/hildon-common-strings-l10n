@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-04-27 19:19+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: Adib Al Abaji <shami585@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "جميع العناصر محددة"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "موافق"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_game"
+msgstr "هل تريد حذف اللعبة؟"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "موافق"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "حذف"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "إلغاء"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "لا يمكن التكبير"
+
+msgid "ckct_ib_document_already_open"
+msgstr "المستند قيد الإستخدام من برنامج آخر"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "أدخل القيمة أولاً"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "أدخل النص أولاً"
+
+msgid "ckct_ib_file_already_open"
+msgstr "الملف قيد الإستخدام من برنامج آخر"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML مستند قيد الاستخدام من قبل تطبيق آخر"
+
+msgid "ckct_ib_illegal_character"
+msgstr "حرف غير صالح"
+
+msgid "ckct_ib_image_already_open"
+msgstr "الصورة قيد الاستخدام من قبل تطبيق آخر"
+
+msgid "ckct_ib_letters_only"
+msgstr "مسموح بالأحرف فقط في هذا النص"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "يجب تحديد قيمة"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr " تم الوصول للحد الأقصى لمستوى التكبير المسموح"
+
+msgid "ckct_ib_message_already_open"
+msgstr "الرسالة قيد الاستخدام من قبل تطبيق آخر"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "تم الوصول للحد الأدنى من مستوى التكبير المسموح به"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "لا يوجد شيء للحذف"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "لا يوجد شيء للنقل"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "لا يوجد شيء للفتح"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "لا يوجد شيء للإختيار"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "لا شيء للتراجع عنه"
+
+msgid "ckct_ib_numbers_only"
+msgstr "فقط الأرقام مسموح بها في النص"
+
+msgid "ckct_ib_select_single_item"
+msgstr "اختر شيء واحد فقط"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "يجب أن يكون تاريخ البدء في وقت سابق من تاريخ انتهاء"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "يجب أن يكون وقت البدء في وقت سابق من وقات الإنتهاء"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "الملف الصوتي قيد الاستخدام من قبل تطبيق آخر"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "غير قادر على النسخ"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "غير قادرة على القص"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "غير قادر على الحذف"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "غير قادر على اللصق هنا"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "غير قادر على التراجع"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "نوع الملف غير معروف"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "ملف الفيديو قيد الاستخدام من قبل تطبيق آخر"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML مستند قيد الاستخدام من قبل تطبيق آخر"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"حذف التطبيق؟\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"حذف المفضلة؟\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"حذف الشهادة؟\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"حذف جهة الإتصال؟\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"حذف المستند؟\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"حذف التدوين؟\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"حذف الملف؟\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "حذف المجلد وكافة محتوياته؟"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "حذف المجلد والملف المختار؟"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "حذف المجلدات والملفات المحددة؟"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"حذف مستند XML?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"حذف الصورة؟\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"حذف الإختصار؟\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"حذف الرسالة؟\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"حذف الملاحظة؟\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"حذف الملف؟\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "حذف التطبيقات المحددة؟"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "حذف المحدد من المفضلة؟"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "حذف الشهادات المحددة؟"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "حذف المستندات المحددة؟"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "حذف الملفات المحددة؟"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "حذف المجلدات المحددة وكل محتواها؟"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "حذف المستند المحدد XML?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "حذف الصور المحددة؟"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "حذف الإختصارات المحددة؟"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "حذف الرسائل المحددة؟"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "حذف الملفات الصوتية المحددة؟"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "حذف ملفات الفيديو المحددة؟"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "حذف المستندات المحددة XML?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"حذف الملف الصوتي؟\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"حذف ملف الفيديو؟\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"حذف مستند XML?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"تعذر الحفظ.\n"
+"غطاء بطاقة الذاكرة مفتوح."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"تعذر فتح الملف.\n"
+"الملف معطوب."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "موافق"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"تعذر فتح الملف.\n"
+"صيغة الملف غير مدعومة."
+
+msgid "ckct_nw_pasting"
+msgstr "جاري اللصق"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "إلغاء"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "حذف"
+
+msgid "ckdg_ib_application_exists"
+msgstr "سم التطبيق مستخدم من قبل"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "التطبيق للقراءة فقط"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "اسم المفضلة مستخدم من قبل"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "المفضلة للقراءة فقط"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "اسم الشهادة مستخدم من قبل"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "الشهادة للقراءة فقط"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "أدخل اسم المستخدم أولاً"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "اسم المستخدم غير صحيح"
+
+msgid "ckdg_ib_document_exists"
+msgstr "المستند قيد الإستخدام حالياً"
+
+msgid "ckdg_ib_enter_name"
+msgstr "أدخل الاسم أولاً"
+
+msgid "ckdg_ib_file_exists"
+msgstr "اسم الملف قيد الاستخدام"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "الملف للقراءة فقط"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "اسم المجلد قيد الاستخدام"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "اللعبة للقراءة فقط"
+
+msgid "ckdg_ib_html_exists"
+msgstr " اسم المستند قيد الاستخدام"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "المستند للقراءة فقط"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "النص غير قادر على احتواء '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "اسم الصورة مستخدم من قبل"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "الصورة للقراءة فقط"
+
+msgid "ckdg_ib_link_exists"
+msgstr "إسم الإختصار مسنخدم من قبل"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "الإختصار للقراءة فقط"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "تم الوصل للعد الأقصى للأحرف"
+
+msgid "ckdg_ib_message_exists"
+msgstr "إسم الرسالة مستخدم من قبل"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "الرسالة للقراءة فقط"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "لا شيء لإلغاء التحديد"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "لا شيء للتكرار"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "لا شيء لإعادة تسمية"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "لا شيء للإرسال"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr " لا شيء لإعادة الترتيب"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "الملف الصوتي للقراءة فقط"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "اسم الملف الصوتي مستخدم من قبل"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "غير قادر على نسخ المجلد إلى نفسه"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "غير قادر على نسخ أو نقل مجلد فرعي داخل المجلد الأصلي"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "غير قادر على التحديد"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "غير قادر على تحريك المجلد إلى نفسه"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "غير قادر على الانتقال إلى الموقع الحالي"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "غير قادر على الصق في الموقع الأصلي"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "غير قادر على إعادة التسمية"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "غير قادر على إزالة التحديد"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "ملف الفيديو للقراءة فقط"
+
+msgid "ckdg_ib_video_exists"
+msgstr "إسم ملف الفيديو مستخدم من قبل"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "إسم المستند مستخدم من قبل"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "المستند للقراءة فقط"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "إزالة حماية كلمة السر؟"
+
+msgid "ckdg_pb_updating"
+msgstr "جاري التحديث"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "أدخل النص للعثور عليه"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "أدخل كلمة المرور أولاً"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "كلمات المرور غير متطابقة"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "كلمة السر غير صحيحة"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "لم يتم العثور على تشابه"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "تم النسخ"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "المستند للقراءة فقط"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "لا شيء للنسخ"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "لا شيء للقص"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "لا شيء للصق"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "لا شيء للتراجع"
+
+msgid "file_ib_name_too_long"
+msgstr "الاسم طويل جدا"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "لا شيء للعرض"
+
+msgid "sfil_ib_saved"
+msgstr "تم الحفظ"
+
+msgid "sfil_ib_saving"
+msgstr "جاري الحفظ"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "غير قادر على نسخ أو نقل مجلد فرعي داخل المجلد الأصلي"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "غير قادر على قص الملف المحدد"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "غير قادر على قص الملفات المحددة"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "غير قادر على حذف المجلد المحدد"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "غير قادر على حذف الملفات المحددة"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "غير قادر على تحريك المجلد المحدد"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "غير قادر على نقل الملفات المختارة"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"غير قادر على الفتح.\n"
+"المجلد غير موجود."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "غير قادر على إعادة تسمية المجلد المحدد"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "غير قادر على الإرسال"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "غير قادر على إرسال المجلدات"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "حفظ الملف قبل الإغلاق؟"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "إلغاء"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "لا"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "نعم"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"غير قادر على المتابعة.\n"
+"المجلد غير موجود."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"غير قادر على الفتح.\n"
+"غطاء بطاقة الذاكرة مفتوح."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"غير قادر على الفتح.\n"
+"غير متصل."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"المجلد غير موجود.\n"
+"الجهاز تحول لمجلد آخر."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "الذاكرة غير كافية في الموقع المستهدف"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_operation_failed"
+msgstr "فشلت العملية"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"غير قادر على الفتح.\n"
+"الملف غير موجود."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"غير قادر على الفتح.\n"
+"الملف كبير جدا."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "موافق"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"غير قادر على إعادة التسمية.\n"
+"الملف غير موجود."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "موافق"
+
