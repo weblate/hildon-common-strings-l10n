@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: hildon-common-strings 20081020115109\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
-"PO-Revision-Date: 2010-02-03 14:27+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 13:33+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-common-strings-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #  Displayed if the user tries to accept a dialog while a field that requires to be filled is missing. The focus is moved to the empty field.
 msgid "ckct_ib_enter_a_value"
@@ -69,7 +72,7 @@ msgstr "Geçersiz karakter"
 
 #  Displayed where two date fields are used to specify a date range, and the start date defined by the user is later than the end date. Focus is returned to the field and characters in the field are highlighted.
 msgid "ckct_ib_set_start_before_end_date"
-msgstr " Başlangıç tarihi bitiş tarihinden erken olmalıdır"
+msgstr " Başlangıç tarihi bitiş tarihinden önce olmalıdır "
 
 #  Displayed where two time fields are used to specify a time range, and the start time defined by the user is later than the end time. Focus is returned to the field and characters in the field are highlighted.
 msgid "ckct_ib_set_start_before_end_time"
@@ -145,15 +148,15 @@ msgstr "Yakınlaştırılamıyor"
 
 #  this Information banner is shown when the user tries to change the contents of a read-only Single Line Editor
 msgid "ecoc_ib_edwin_file_read_only"
-msgstr "Bu döküman salt okunur"
+msgstr "Bu belge salt okunur"
 
 #  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
 msgid "ckdg_ib_html_read_only"
-msgstr "Bu HTML dökümanı salt okunur"
+msgstr "Bu HTML belgesi salt okunur"
 
 #  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
 msgid "ckdg_ib_xml_read_only"
-msgstr "Bu XML dökümanı salt okunur"
+msgstr "Bu XML belgesi salt okunur"
 
 #  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
 msgid "ckdg_ib_message_read_only"
@@ -193,15 +196,15 @@ msgstr "Bu Dosya salt okunur"
 
 #  Displayed if the user tries to create or rename a document with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
 msgid "ckdg_ib_document_exists"
-msgstr "Döküman adı zaten kullanımda"
+msgstr "Belge adı zaten kullanımda"
 
 #  Displayed if the user tries to create or rename a HTML document with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
 msgid "ckdg_ib_html_exists"
-msgstr "HTML döküman adı zaten kullanımda"
+msgstr "HTML belge adı zaten kullanımda"
 
 #  Displayed if the user tries to create or rename a XML document with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
 msgid "ckdg_ib_xml_exists"
-msgstr "XML döküman adı zaten kullanımda"
+msgstr "XML belge adı zaten kullanımda"
 
 #  Displayed if the user tries to create or rename a message with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
 msgid "ckdg_ib_message_exists"
@@ -249,15 +252,15 @@ msgstr "Taşınacak bir şey yok"
 
 #  Displayed if the user tries to open a file that is already open in another application.
 msgid "ckct_ib_document_already_open"
-msgstr "Döküman başka bir uygulama tarafından kullanımda"
+msgstr "Belge başka bir uygulama tarafından kullanımda"
 
 #  Displayed if the user tries to open a file that is already open in another application.
 msgid "ckct_ib_html_document_already_open"
-msgstr "HTML dökümanı başka bir uygulama tarafından kullanımda"
+msgstr "HTML belgesi başka bir uygulama tarafından kullanımda"
 
 #  Displayed if the user tries to open a file that is already open in another application.
 msgid "ckct_ib_xml_document_already_open"
-msgstr "XML dökümanı başka bir uygulama tarafından kullanımda"
+msgstr "XML belgesi başka bir uygulama tarafından kullanımda"
 
 #  Displayed if the user tries to open a file that is already open in another application.
 msgid "ckct_ib_message_already_open"
@@ -457,7 +460,7 @@ msgstr "İptal"
 #  confirmation note when the user wants to delete one document
 msgid "ckct_nc_delete_document"
 msgstr ""
-"Döküman sillinsin mi?\n"
+"Belge sillinsin mi?\n"
 "%s"
 
 #  Delete button for confirmation note when the user wants to delete one document
@@ -471,7 +474,7 @@ msgstr "İptal"
 #  confirmation note when the user wants to delete one HTML document
 msgid "ckct_nc_delete_html"
 msgstr ""
-"HTML dökümanı silinsin mi?\n"
+"HTML belgesi silinsin mi?\n"
 "%s"
 
 #  Delete button for confirmation note when the user wants to delete one HTML document
@@ -485,7 +488,7 @@ msgstr "İptal"
 #  confirmation note when the user wants to delete one XML document
 msgid "ckct_nc_delete_xml"
 msgstr ""
-"XML dökümanı silinsin mi?\n"
+"XML belgesi silinsin mi?\n"
 "%s"
 
 #  Delete button of confirmation note when the user wants to delete one XML document
@@ -680,7 +683,7 @@ msgstr "İptal"
 
 #  confirmation note when the user wants to delete multiple documents
 msgid "ckct_nc_delete_selected_documents"
-msgstr "Seçilen dökümanlar silinsin mi?"
+msgstr "Seçilen belgeler silinsin mi?"
 
 #  delete button of confirmation note when the user wants to delete multiple documents
 msgid "ckct_bd_delete_selected_documents_delete"
@@ -692,7 +695,7 @@ msgstr "İptal"
 
 #  confirmation note when the user wants to delete multiple HTML documents
 msgid "ckct_nc_delete_selected_html"
-msgstr "Seçilen HTML dökümanları silinsin mi?"
+msgstr "Seçilen HTML belgeleri silinsin mi?"
 
 #  delete button of confirmation note when the user wants to delete multiple HTML documents
 msgid "ckct_bd_delete_selected_html_delete"
@@ -704,7 +707,7 @@ msgstr "İptal"
 
 #  confirmation note when the user wants to delete multiple XML documents
 msgid "ckct_nc_delete_selected_xml"
-msgstr "Seçilen XML dökümanları silinsin mi?"
+msgstr "Seçilen XML belgeleri silinsin mi?"
 
 #  delete button of confirmation note when the user wants to delete multiple XML documents
 msgid "ckct_bd_delete_selected_xml_delete"
@@ -1071,4 +1074,3 @@ msgstr ""
 # Confirmation button for Information note displayed when the user tries to open a file that is too large to handle for the application.
 msgid "sfil_ni_unable_to_open_too_large_ok"
 msgstr "OK"
-
