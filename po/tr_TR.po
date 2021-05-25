@@ -1,0 +1,1074 @@
+#
+# This file is part of hildon-common-strings-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-02-03 14:27+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#  Displayed if the user tries to accept a dialog while a field that requires to be filled is missing. The focus is moved to the empty field.
+msgid "ckct_ib_enter_a_value"
+msgstr "Önce değeri girmelisiniz"
+
+#  Displayed if the user tries to accept a dialog while a field that requires some text is empty. The focus is moved to the empty field.
+#
+# NOTE: Fields that require text are generally not empty by default, but are pre-seeded with suitable text. This notification is displayed where the user deletes this default text and does not supply an alternative. Text is required since the platform does not support saving unnamed entries.
+msgid "ckct_ib_enter_some_text"
+msgstr "Önce metni girmelisiniz"
+
+#  Text in 'Maximum characters reached' information banner - various dialogs
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Maksimum karakter sayısına ulaşıldı"
+
+#  Displayed if the user tries to enter characters to a field that accepts only numbers. Used only in cases where the field functionality is not evident, e.g. a password field. Focus is returned to the field and characters in the field are highlighted.
+msgid "ckct_ib_numbers_only"
+msgstr "Bu alanda sadece rakamlara izin verilir"
+
+#  Displayed if the user tries to enter numbers to a field that accepts only letters, not numbers. Used only in cases where the field functionality is not evident, e.g. a password field. Focus is returned to the field and characters in the field are highlighted.
+msgid "ckct_ib_letters_only"
+msgstr "Bu alanda sadece harflere izin verilir"
+
+#  Displayed when the user tries to enter a character that is not valid to a field. E.g. password cannot contain special characters such as question mark. Focus is returned to the field and characters in the field are highlighted.
+msgid "ckct_ib_illegal_character"
+msgstr "Geçersiz karakter"
+
+#  Displayed where two date fields are used to specify a date range, and the start date defined by the user is later than the end date. Focus is returned to the field and characters in the field are highlighted.
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " Başlangıç tarihi bitiş tarihinden erken olmalıdır"
+
+#  Displayed where two time fields are used to specify a time range, and the start time defined by the user is later than the end time. Focus is returned to the field and characters in the field are highlighted.
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Başlangıç zamanı bitiş zamanından erken olmalıdır"
+
+#  Displayed if the user selects a copy command and the copying is done successfully.
+msgid "ecoc_ib_edwin_copied"
+msgstr "Kopyalandı"
+
+#  Displayed if the user tries to select a cut command while the focus is not on an item, e.g. a list is empty. If the focus is on an item but it cannot be cut, "Unable to  cut" is used instead.
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Kesilecek bir şey yok"
+
+#  Displayed if the user tries to select a cut command while the focus is not on an item, e.g. a list is empty. If the focus is on an item but it cannot be copied, "Unable to copy" is used instead.
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Kopyalanacak bir şey yok"
+
+#  Displayed if the user selects a paste command while the clipboard is empty.
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Yapıştırılacak bir şey yok"
+
+#  Displayed if the user selects a cut command on an item that cannot be cut for other reasons than the file being read-only. If the file is read-only, "This item is read-only" (WID-Inf049) is displayed instead.
+msgid "ckct_ib_unable_to_cut"
+msgstr "Kesilemiyor"
+
+#  Displayed if the user selects a copy command on an item that cannot be copied, e.g. clipboard functionality is not available for the item.
+msgid "ckct_ib_unable_to_copy"
+msgstr "Kopyalanamıyor"
+
+#  displayed if the user tries to paste clipboard contents to a location where it is impossible to paste
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Yapıştırılamıyor"
+
+#  Displayed if the user selects a delete command, but the focus is not on an item, e.g. a list is empty. If the focus is on an item that cannot be deleted, a more descriptive information banner should be used.
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Silinecek bir şey yok"
+
+#  Displayed if the user tries to use the select all command while there is nothing to select, e.g. a list is empty.
+msgid "ckct_ib_nothing_to_select"
+msgstr "Seçilecek bir şey yok"
+
+#  Displayed if the user tries to select a delete command while the focus is on an item that cannot be deleted for other reasons than the file being read-only.
+msgid "ckct_ib_unable_to_delete"
+msgstr "Silinemiyor"
+
+#  Displayed if the user tries to select an Undo menu item where there is no last recorded action to undo (e.g. when an application is opened for the first time etc.)
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Geri alınacak bir şey yok"
+
+#  Displayed if the user selects a copy command on an item that cannot be copied, e.g. clipboard functionality is not available for the item.
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Geri alınacak bir şey yok"
+
+#  Displayed if the user tries to select an Undo menu item when an undo operation cannot be performed, e.g. the user has already selected to undo once.
+msgid "ckct_ib_unable_to_undo"
+msgstr "Geri alınamıyor"
+
+#  Displayed if the user tries to perform an operation that can be done only for one item at a time and multiple items are selected.
+msgid "ckct_ib_select_single_item"
+msgstr "Sadece 1 obje seçin"
+
+#  displayed if the user selects zoom in command while the maximum zoom level is already in use
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Maksimum yakınlaştırma seviyesine ulaşıldı"
+
+#  displayed if the user selects zoom out command while the minimum zoom level is already in use
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Minimum yakınlaştırma seviyesine ulaşıldı"
+
+#  displayed if the user selects zoom in or zoom out command in a location that cannot be zoomed
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Yakınlaştırılamıyor"
+
+#  this Information banner is shown when the user tries to change the contents of a read-only Single Line Editor
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Bu döküman salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_html_read_only"
+msgstr "Bu HTML dökümanı salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_xml_read_only"
+msgstr "Bu XML dökümanı salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_message_read_only"
+msgstr "Bu Mesaj salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_image_read_only"
+msgstr "Bu Resim salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_application_read_only"
+msgstr "Bu Uygulama salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_link_read_only"
+msgstr "Bu Kısayol salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Bu Yer imi salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Bu Sertifika salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Bu Video klibi salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Bu Ses klibi salt okunur"
+
+#  Displayed if the user tries to rename, delete or modify somehow a file that is read-only.
+msgid "ckdg_ib_file_read_only"
+msgstr "Bu Dosya salt okunur"
+
+#  Displayed if the user tries to create or rename a document with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_document_exists"
+msgstr "Döküman adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a HTML document with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_html_exists"
+msgstr "HTML döküman adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a XML document with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_xml_exists"
+msgstr "XML döküman adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a message with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_message_exists"
+msgstr "Mesaj adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename an image with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_image_exists"
+msgstr "Resim adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename an application with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_application_exists"
+msgstr "Uygulama adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a shortcut with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_link_exists"
+msgstr "Kısayol adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a bookmark with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Yer imi adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a certificate with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_certificate_exists"
+msgstr "Sertifika adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a video with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_video_exists"
+msgstr "Video klip adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a sound clip with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_sound_exists"
+msgstr "Ses klip adı zaten kullanımda"
+
+#  Displayed if the user tries to create or rename a file with a name that already exists in the current folder. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_file_exists"
+msgstr "Dosya adı zaten kullanımda"
+
+#  Displayed if the user tries to save a file name that has illegal characters. Focus is returned to the field and characters in the field are highlighted.
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Alan '%s' içeremez"
+
+#  Displayed if the user tries to move a file while there is no file selected.
+msgid "ckct_ib_nothing_to_move"
+msgstr "Taşınacak bir şey yok"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_document_already_open"
+msgstr "Döküman başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML dökümanı başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML dökümanı başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_message_already_open"
+msgstr "Mesaj başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_image_already_open"
+msgstr "Resim başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Video klip başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Ses klip başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file that is already open in another application.
+msgid "ckct_ib_file_already_open"
+msgstr "Dosya başka bir uygulama tarafından kullanımda"
+
+#  Displayed if the user tries to open a file (e.g. in File Manager or attached to an email message) that cannot be opened with any application.
+msgid "ckct_ib_unknown_file_type"
+msgstr "Bilinmeyen dosya türü"
+
+#  Displayed if the user tries to create or rename a folder with a name that already exists within the current location. Focus is returned to the name field and characters in the field are highlighted.
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Klasör adı zaten kullanımda"
+
+#  Displayed if the user tries to accept a dialog while a name field that requires text is empty. The focus is moved to the empty field and default text is restored and highlighted  NOTE: The platform does not support saving unnamed entries.
+msgid "ckdg_ib_enter_name"
+msgstr "Önce adı girmelisiniz"
+
+#  In Edwin; find/replace dialog
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Eşleşme bulunamadı"
+
+# Information banner in the "Set Password" dialog; raised when the user presses the ok button and a password field is empty
+msgid "ecdg_ib_password_is_empty"
+msgstr "Önce parolayı girmelisiniz"
+
+#  Information banner in the "Set Password" dialog; raised when the user presses the ok button and the passwords do not match
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Parolalar eşleşmiyor"
+
+#  Info Message in Set Password- dialog
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Geçersiz parola"
+
+#  Displayed if the user tries to select a rename command while the focus is on an item that cannot be renamed for other reasons than the file being read-only. If the file is read-only, "This item is read-only" is displayed instead.
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Adlandırılamıyor"
+
+#  Displayed if the user attempts to accept a dialog or view containing a mandatory field without having input appropriately to the field. Focus is returned to the mandatory field.
+msgid "ckct_ib_mandatory_field"
+msgstr "Değer mutlaka tanımlanmış olmalı"
+
+#  Info Message in Find and Replace  -dialogs
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Bulunacak metni girin"
+
+# Displayed where it is known that an operation will take more than half a second to perform, or performing the operation in a known set of circumstances will take more than half a second.
+msgid "ckdg_pb_updating"
+msgstr "Güncelleniyor"
+
+# Displayed when the user attempts to select and open command when nothing has been selected to topen, e.g. there are no files in a list view and consequently nothing is in focus to open.
+msgid "ckct_ib_nothing_to_open"
+msgstr "Açılacak bir şey yok"
+
+# Displayed, if the name of the file copied from other systems (e.g. from PC through USB) is too long for the file system.
+msgid "file_ib_name_too_long"
+msgstr "Ad çok uzun"
+
+# This Information banner is shown by WID - DIA272 if the user presses OK whilst a user name field is blank.
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Önce kullanıcı adı girmelisiniz"
+
+# This Information banner is shown by WID - DIA272 if the user name entered was incorrect.
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Geçersiz kullanıcı adı"
+
+# This information banner is shown if the user tries to remove a game that is marked read-only.
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Bu oyun salt okunur"
+
+# This information banner is shown when the user tries to copy or move a subfolder within the original folder
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Altklasör orijinal klasörün içine kopyalanamaz veya taşınamaz"
+
+# This information banner is shown when the user tries to copy a folder into itself.
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Bir klasör kendisine kopyalanamaz"
+
+# This information banner is shown when the user tries to move a folder into current location.
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Olduğu yere taşınamaz"
+
+# Displayed if the user selects the Rename command when the view is empty (no item is selected).
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Adlandırılacak bir şey yok"
+
+# Displayed if the user selects the Duplicate command when the view is empty (no item is selected).
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Çoğaltılacak bir şey yok"
+
+# Displayed if the user selects the Sort command when the view is empty (no item is selected).
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Sıralanacak bir şey yok"
+
+# Displayed  if the user attempts to paste a file or files in the clipboard to the location from which they were cut.
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Orijinal konumuna yapıştırılamaz"
+
+# Displayed if the user selects the Clear all Marks command when no item already marked.
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "İşareti kaldırılacak bir şey yok"
+
+# Displayed if the user selects the Mark command when all items in the view are already marked.
+msgid "cdkg_ib_all_items_marked"
+msgstr "Tüm öğeler zaten işaretli"
+
+# This information banner is shown if the user tries to mark an item that is unmarkable.
+msgid "ckdg_ib_unable_to_mark"
+msgstr "İşaretlenemiyor"
+
+# This information banner is shown if the user tries to unmark an item that can not be unmarked.
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Bu öğenin işareti kaldırılamıyor"
+
+# This information banner is shown if the user tries to move a folder into itself.
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Bir klasör kendisine taşınamaz"
+
+# Displayed when the user attempts to select a ‘Send’ command when nothing has been selected to send, e.g. there are no files in a list view and consequently nothing is in focus to send.
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Gönderilecek bir şey yok"
+
+# Displayed when the user tries to cut items that can not be cut.
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Seçilen öğeler kesilemiyor"
+
+# Displayed when the user tries to cut a folder that can not be cut.
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Seçilen klasör kesilemiyor"
+
+# Displayed when the user tries to delete items that can not be deleted.
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Seçilen öğeler silinemiyor"
+
+# Displayed when the user tries to delete a folder that can not be deleted.
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Seçilen klasör silinemiyor"
+
+# Displayed when the user tries to move items that can not be moved.
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Seçilen öğeler taşınamıyor"
+
+# Displayed when the user tries to move a folder that can not be moved.
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Seçilen klasör taşınamıyor"
+
+# Displayed when the user tries to rename a folder that can not be renamed.
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Seçilen klasör adlandırılamıyor"
+
+# Displayed when the user tries to send folders that can not be sent.
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Klasörler gönderilemiyor"
+
+# Displayed when the user tries to copy or move a subfolder within the original folder.
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Altklasör orijinal klasörün içine kopyalanamaz veya taşınamaz"
+
+# Presented when a folder that is being  opened does not exist in the specified location.
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Açılamıyor.\n"
+"Klasör bulunamadı."
+
+# Presented when trying to open Details dialog and there is no item selected.
+#
+msgid "sfil_ib_nothing_to_view"
+msgstr "Görüntülenecek bir şey yok"
+
+# Presented when user tries to send data via Bluetooth or Email, but the operation cannot be completed
+msgid "sfil_ib_unable_to_send"
+msgstr "Gönderilemiyor"
+
+#  this is a cancel note displayed if a pasting operation will take a significant amount of time
+msgid "ckct_nw_pasting"
+msgstr "Yapıştırılıyor"
+
+#  Cancel button for "pasting" cancel note.
+msgid "ckct_bd_pasting_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one document
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Döküman sillinsin mi?\n"
+"%s"
+
+#  Delete button for confirmation note when the user wants to delete one document
+msgid "ckct_bd_delete_document_delete"
+msgstr "Sil"
+
+#  Cancel button for confirmation note when the user wants to delete one document
+msgid "ckct_bd_delete_document_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one HTML document
+msgid "ckct_nc_delete_html"
+msgstr ""
+"HTML dökümanı silinsin mi?\n"
+"%s"
+
+#  Delete button for confirmation note when the user wants to delete one HTML document
+msgid "ckct_bd_delete_html_delete"
+msgstr "Sil"
+
+#  Cancel button for confirmation note when the user wants to delete one HTML document
+msgid "ckct_bd_delete_html_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one XML document
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"XML dökümanı silinsin mi?\n"
+"%s"
+
+#  Delete button of confirmation note when the user wants to delete one XML document
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Sil"
+
+#  Cancel button of confirmation note when the user wants to delete one XML document
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one note
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Not silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one note
+msgid "ckct_bd_delete_note_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one note
+msgid "ckct_bd_delete_note_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one message
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Mesaj silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one message
+msgid "ckct_bd_delete_message_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one message
+msgid "ckct_bd_delete_message_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one image
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Resim silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one image
+msgid "ckct_bd_delete_image_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one image
+msgid "ckct_bd_delete_image_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one application
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Uygulama silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one application
+msgid "ckct_bd_delete_application_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one application
+msgid "ckct_bd_delete_application_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one shortcut
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Kısayol silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one shortcut
+msgid "ckct_bd_delete_link_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one shortcut
+msgid "ckct_bd_delete_link_cancel"
+msgstr "İptal"
+
+#  delete button of confirmation note when the user wants to delete one presentation
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one presentation
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one bookmark
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Yer imi silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one bookmark
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one bookmark
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one certificate
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Sertifika silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one certificate
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one certificate
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one video clip
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Video klip silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one video clip
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one video clip
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one sound clip
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Ses klibi silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one sound clip
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one sound clip
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "İptal"
+
+#  delete button of confirmation note when the user wants to delete one workbook
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one workbook
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one file
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Dosya silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one file
+msgid "ckct_bd_delete_file_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one file
+msgid "ckct_bd_delete_file_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one object
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Öğe silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one object
+msgid "ckct_bd_delete_object_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one object
+msgid "ckct_bd_delete_object_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one folder
+msgid "ckct_nc_delete_folder"
+msgstr "Klasör ve tüm içeriği silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete one folder
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one folder
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple documents
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Seçilen dökümanlar silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple documents
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple documents
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple HTML documents
+msgid "ckct_nc_delete_selected_html"
+msgstr "Seçilen HTML dökümanları silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple HTML documents
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple HTML documents
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple XML documents
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Seçilen XML dökümanları silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple XML documents
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple XML documents
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple messages
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Seçilen mesajlar silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple messages
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple messages
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple images
+msgid "ckct_nc_delete_selected_images"
+msgstr "Seçilen resimler silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple images
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple images
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple applications
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Seçilen uygulamalar silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple applications
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple applications
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple shortcuts
+msgid "ckct_nc_delete_selected_links"
+msgstr "Seçilen kısayollar silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple shortcuts
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple shortcuts
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "İptal"
+
+#  delete button of confirmation note when the user wants to delete multiple presentations
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple presentations
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple bookmarks
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Seçilen yer imleri silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple bookmarks
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple bookmarks
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple certificates
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Seçilen sertifikalar silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple certificates
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple certificates
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple video clips
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Seçilen video klipler silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple video clips
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple video clips
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple sound clips
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Seçilen ses klipleri silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple sound clips
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple sound clips
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "İptal"
+
+#  delete button of confirmation note when the user wants to delete multiple workbooks
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple workbooks
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple files
+msgid "ckct_nc_delete_selected_files"
+msgstr "Seçilen dosyalar silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple files
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple files
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple folders
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Seçilen klasörler ve tüm içerikleri silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple folders
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple folders
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete a single folder and a single file
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Klasör ve seçilen dosya silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete a single folder and a single file
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete a single folder and a single file
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete multiple folders and a single file
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Seçilen klasörler ve dosya silinsin mi?"
+
+#  delete button of confirmation note when the user wants to delete multiple folders and a single file
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple folders and a single file
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "İptal"
+
+#  delete button of confirmation note when the user wants to delete multiple folders and multiple files
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete multiple folders and multiple files
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "İptal"
+
+#  Shown in Confirmation Note from Change Password - dialog (WID-Dia016)
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Parola koruması kaldırılsın mı?"
+
+#  Shown in Confirmation Note from Change Password - dialog
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Kaldır"
+
+#  Cancel - button in Confirmation Note from Change Password - dialog
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one contact
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Kişi silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one contact
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one contact
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "İptal"
+
+#  confirmation note when the user wants to delete one entry
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Girdi silinsin mi?\n"
+"%s"
+
+#  delete button of confirmation note when the user wants to delete one entry
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Sil"
+
+#  cancel button of confirmation note when the user wants to delete one entry
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "İptal"
+
+# Confirmation note shown if the user tries to delete a game.
+msgid "ckct_bd_delete_game"
+msgstr "Oyun silinsin mi?"
+
+# Confirmation button fot confirmation note shown if the user tries to delete a game.
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+# Cancel button for confirmation note shown if the user tries to delete a game.
+msgid "ckct_bd_delete_game_cancel"
+msgstr "İptal"
+
+# Shown in Information note displayed if the user opens the memory card cover before the saving operation has completed
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"Kayıt yarıda kesildi.\n"
+"Hafıza kartı kapağı açık."
+
+# Confirmation button for Information note displayed if the user opens the memory card cover before the saving operation has completed
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+# Information note displayed if the file the user is attempting to open is corrupted.
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya bozuk."
+
+# Confirmation button for Information note displayed if the file the user is attempting to open is corrupted.
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+# Displayed when the selected file cannot be opened because its file format is not supported by the platform. This information note uses an ‘OK button, NOT a ‘Continue’ button.
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya formatı desteklenmiyor."
+
+# Information note presented when there is not enough memory to do the operation
+msgid "sfil_ni_not_enough_memory"
+msgstr "Hedef konumda yetersiz bellek"
+
+# Confirmation button for Information note presented when there is not enough memory to do the operation
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+# Information note presented when the connection breaks in the middle of file open operation.
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Açma yarıda kesildi.\n"
+"Bağlantı yok."
+
+# Confirmation button for Information note presented when the connection breaks in the middle of file open operation.
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+# Information note presented when target folder has been deleted in the middle of operation.
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Devam edilemiyor.\n"
+"Klasör bulunamadı."
+
+# Confirmation button for Information note presented when target folder has been deleted in the middle of operation.
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+# Information note presented when a file was being opened from mmc and mmc cover was opened in the middle of open operation.
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Açma yarıda kesildi.\n"
+"Hafıza kartı kapağı açık."
+
+# Confirmation button for Information note presented when a file was being opened from mmc and mmc cover was opened in the middle of open operation.
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+# Information note presented when file that is tired to be opened does not exist in the specified location.
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya bulunamadı."
+
+# Confirmation button for Information note presented when file that is tired to be opened does not exist in the specified location.
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+# An Information Note presented when a file was being renamed does not exist in the specified location.
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Adlandırılamıyor.\n"
+"Dosya bulunamadı."
+
+# Confirmation button for An Information Note presented when a file was being renamed does not exist in the specified location.
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"
+
+# Confirmation Note presented when the user tries to close an application without saving the open file.
+msgid "sfil_nc_save_before_closing"
+msgstr "Kapatmadan önce kaydedilsin mi?"
+
+# Confirmation button for Confirmation Note presented when the user tries to close an application without saving the open file.
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Evet"
+
+# No button for Confirmation Note presented when the user tries to close an application without saving the open file.
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Hayır"
+
+# Cancel button for Confirmation Note presented when the user tries to close an application without saving the open file.
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "İptal"
+
+# An Information note presented in Save <Object> Dialog when a target folder does not exist in the specified location.
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Klasör bulunamadı.\n"
+"Cihaz başka bir klasöre geçiyor."
+
+# Confirmation button for An Information note presented in Save <Object> Dialog when a target folder does not exist in the specified location.
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+# Information note Presented when an user initiated operation fails.
+msgid "sfil_ni_operation_failed"
+msgstr "İşlem başarısız"
+
+# Confirmation button for information note presented when an user initiated operation fails.
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+# Progress Banner
+# Displayed where it is expected that a save operation initiated by the user will take more than half a second to perform, and no other indication is provided.
+msgid "sfil_ib_saving"
+msgstr "Kaydediliyor"
+
+# Information banner
+# Displayed when a save operation initiated by the user completes, and where no other feedback (such as showing the file appear in a folder) is provided to the user.
+msgid "sfil_ib_saved"
+msgstr "Kaydedildi"
+
+# Information note displayed when the user tries to open a file that is too large to handle for the application.
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya çok büyük."
+
+# Confirmation button for Information note displayed when the user tries to open a file that is too large to handle for the application.
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
