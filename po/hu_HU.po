@@ -1,0 +1,796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-03-05 15:42+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Összes elem kijelölve"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_game"
+msgstr "Törlöd a játékot?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Mégse"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Törlés"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Mégse"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Nem lehet zoom-olni"
+
+msgid "ckct_ib_document_already_open"
+msgstr "A dokumentumot egy másik alkalmazás használja"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Előbb add meg az értéket"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Előbb add meg a szöveget"
+
+msgid "ckct_ib_file_already_open"
+msgstr "A fájlt egy másik alkalmazás használja"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "A HTML dokumentumot egy másik alkalmazás használja"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Helytelen karakter"
+
+msgid "ckct_ib_image_already_open"
+msgstr "A képet egy másik alkalmazás használja"
+
+msgid "ckct_ib_letters_only"
+msgstr "Csak betűk használata engedélyezett ebben a mezőben"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Érték megadása kötelező"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Elérted a maximális zoom szintet"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Az üzenetet egy másik alkalmazás használja"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Elérted a minimális zoom szintet"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Nincs mit törölni"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Nincs mit áthelyezni"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Nincs mit megnyitni"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Nincs mit kiválasztani"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Nincs mit viszsavonni"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Csak számok használata engedélyezett ebben a mezőben"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Csak 1 tételt jelölj ki"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "A kezdeti dátum nem lehet a befejező dátum után"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Start time must be earlier than end time"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Az audió klippet egy másik alkalmazás használja"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Nem lehet másolni"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Nem lehet kivágni"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Nem lehet törölni"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Nem lehet beilleszteni ide"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Nem lehet visszavonni"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Ismeretlen fájl típus"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "A videó klippet egy másik alkalmazás használja"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Az XML dokumentumot egy másik alkalmazás használja"
+
+msgid "ckct_nc_delete_application"
+msgstr ""
+"Törlöd az alkalmazást?\n"
+"%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr ""
+"Törlöd a könyvjelzőt?\n"
+"%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr ""
+"Törlöd a tanúsítványt?\n"
+"%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr ""
+"Törlöd a kapcsolatot?\n"
+"%s"
+
+msgid "ckct_nc_delete_document"
+msgstr ""
+"Törlöd a dokumentumot?\n"
+"%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr ""
+"Törlöd a bejegyzést?\n"
+"%s"
+
+msgid "ckct_nc_delete_file"
+msgstr ""
+"Törlöd a fájlt?\n"
+"%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Törlöd a mappát és teljes tartalmát?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Törlöd a mappát és a kiválasztott fájlt?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Törlöd a kiválasztott fájlokat és mappákat?"
+
+msgid "ckct_nc_delete_html"
+msgstr ""
+"Törlöd a HTML dokumentumot?\n"
+"%s"
+
+msgid "ckct_nc_delete_image"
+msgstr ""
+"Törlöd a képet?\n"
+"%s"
+
+msgid "ckct_nc_delete_link"
+msgstr ""
+"Törlöd a parancsikont?\n"
+"%s"
+
+msgid "ckct_nc_delete_message"
+msgstr ""
+"Törlöd az üzenetet?\n"
+"%s"
+
+msgid "ckct_nc_delete_note"
+msgstr ""
+"Törlöd a jegyzetet?\n"
+"%s"
+
+msgid "ckct_nc_delete_object"
+msgstr ""
+"Törlöd az objektumot?\n"
+"%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Törlöd a kiválasztott alkalmazásokat?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Törlöd a kiválasztott könyvjelzőket?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Törlöd a kiválasztott tanúsítványokat?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Törlöd a kiválasztott dokumentumokat?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Törlöd a kiválasztott fájlokat?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Törlöd a kiválasztott mappákat és teljes tartalmukat?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Törlöd a kiválasztott HTML dokumentumokat?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Törlöd a kiválasztott képeket?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Törlöd a kiválasztott parancsikonokat?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Törlöd a kiválasztott üzeneteket?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Törlöd a kiválasztott hang klippeket?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Törlöd a kiválasztott videó klippeket?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Törlöd a kiválasztott XML dokumentumokat?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr ""
+"Törlöd az audió klippet?\n"
+"%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr ""
+"Törlöd a videó klippet?\n"
+"%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr ""
+"Törlöd az XML dokumentumot?\n"
+"%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr ""
+"A mentés megszakadt.\n"
+"Memória kártya fedél nyitva."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"A fájl sérült."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Fájl formátum nem támogatott."
+
+msgid "ckct_nw_pasting"
+msgstr "Beillesztés"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Mégse"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Eltávolítás"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Alkalmazás név foglalt"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Alkalmazás csak olvasható"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Könyvjelző név foglalt"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Könyvjelző csak olvasható"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Tanúsítvány név foglalt"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Tanúsítvány csak olvasható"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Előbb add meg a felhasználónevet"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Helytelen felhasználónév"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Dokumentum név foglalt"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Előbb add meg a nevet"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Fájl név foglalt"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Fájl csak olvasható"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Mappa név foglalt"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Játék csak olvasható"
+
+msgid "ckdg_ib_html_exists"
+msgstr "HTML dokumentum név foglalt"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML dokumentum csak olvasható"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "A mező nem tartalmazhatja: '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Kép név foglalt"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Kép csak olvasható"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Parancsikon név foglalt"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Parancsikon csak foglalható"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Elérted a maximális karakter számot"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Üzenet név foglalt"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Üzenet csak olvasható"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Nincs mit elvetni"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Nincs mit duplázni"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Nincs mit átnevezni"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Nincs mit küldeni"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Nincs mit rendezni"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Audió klipp csak olvasható"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Audió klipp név foglalt"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Nem lehet másolni a mappát saját magába"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Nem lehet másolni vagy áthelyezni almappát az eredeti mappán belül"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Nem lehet kijelölni"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Nem lehet áthelyezni a mappát saját magába"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Nem lehet áthelyezni a jelenlegi helyre"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Nem lehet beilleszteni az eredeti helyen"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Nem lehet átnevezni"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Nem lehet megszüntetni a kijelölést"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Videó klipp csak olvasható"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Videó klipp név foglalt"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "XML dokumentum név foglalt"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "XML dokumentum csak olvasható"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Eltávolítod a jelszavas védelmet?"
+
+msgid "ckdg_pb_updating"
+msgstr "Frissítés"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Add meg a keresendő szöveget"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Előbb add meg a jelszót"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Jelszavak nem egyeznek"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Helytelen jelszó"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Nincs találat"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Másolva"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Dokumentum csak olvasható"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Nincs mit másolni"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Nincs mit kivágni"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Nincs mit beilleszteni"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Nincs mit visszavonni"
+
+msgid "file_ib_name_too_long"
+msgstr "Túl hosszú név"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Nincs mit megtekinteni"
+
+msgid "sfil_ib_saved"
+msgstr "Mentve"
+
+msgid "sfil_ib_saving"
+msgstr "Mentés"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Nem lehet másolni vagy áthelyezni almappát az eredeti mappán belül"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Nem lehet kivágni a kijelölt mappát"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Nem lehet kivágni a kijelölt tételeket"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Nem lehet törölni a kiválasztott mappát"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Nem lehet törölni a kijelölt tételeket"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Nem lehet áthelyezni a kijelölt mappát"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Nem lehet áthelyezni a kijelölt tételeket"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Mappa nem található."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Nem lehet átnevezni a kijelölt mappát"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Nem lehet küldeni"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Mappát nem lehet küldeni"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Mented a fájlt bezárás előtt?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Mégse"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Nem"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Igen"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr ""
+"Nem lehet folytatni.\n"
+"Mappa nem található."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr ""
+"Megnyitás megszakadt.\n"
+"Memória kártya fedél nyitva."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr ""
+"Megnyitás megszakadt.\n"
+"Nincs kapcsolat."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr ""
+"Mappa nem található.\n"
+"Az eszköz átváltott egy másik mappára."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Nincs elég hely az eszközön"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Művelet sikertelen"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Fájl nem található."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Túl nagy fájl."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr ""
+"Nem lehet átnevezni.\n"
+"Fájl nem található."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"
+
