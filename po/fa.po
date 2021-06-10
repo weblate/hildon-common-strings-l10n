@@ -1,0 +1,745 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2011-11-06 15:17+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "تمام آیتم‌ها انتخاب شدند"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "تایید"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_game"
+msgstr "آیا میخواهید بازی را حذف کنید؟"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "تایید"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "حذف کردن"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "لغو کردن"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "عدم امکان بزرگنمایی"
+
+msgid "ckct_ib_document_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این پرونده است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "ابتدا باید مقداری را وارد کنید"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "ابتدا باید متنی را وارد کنید"
+
+msgid "ckct_ib_file_already_open"
+msgstr "این فایل در حال حاضر برنامه‌ی دیگری در حال استفاده است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این فایل وب است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_illegal_character"
+msgstr "کاراکتر نامعتبر است"
+
+msgid "ckct_ib_image_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این فایل تصویری است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_letters_only"
+msgstr "در این فیلد تنها مجاز به وارد کردن حروف هستید"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "باید مقدار را مشخص نمائید"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "به حداکثر میزان بزرگنمایی رسید"
+
+msgid "ckct_ib_message_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این پیام است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "به حداقل میزان بزرگنمایی رسید"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "چیزی برای حذف کردن وجود ندارد"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "چیزی برای انتقال دادن وجود ندارد"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "چیزی برای باز کردن وجود ندارد"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "چیزی برای انتخاب کردن وجود ندارد"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "عملیاتی برای لغو کردن وجود ندارد"
+
+msgid "ckct_ib_numbers_only"
+msgstr "در این فیلد تنها مجاز به وارد کردن اعداد هستید"
+
+msgid "ckct_ib_select_single_item"
+msgstr "تنها یک آیتم را انتخاب نمائید"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "تاریخ شروع باید زودتر از تاریخ  پایان انتخاب شود"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "زمان شروع باید زودتر از زمان پایان انتخاب شود"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این کلیپ صوتی است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "امکان کپی کردن وجود ندارد"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "امکان جابجا کردن وجود ندارد"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "امکان حذف کردن وجود ندارد"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "امکان قراردادن فایل کپی شده در این مکان وجود ندارد"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "امکان لغو عملیات وجود ندارد"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "نوع فایل شناخته شده نیست"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این کلیپ ویدیویی است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "در حال حاضر برنامه‌ی دیگری در حال استفاده از این فایل (ایکس ام ال) است و امکان تغییر بر روی آن نیست"
+
+msgid "ckct_nc_delete_application"
+msgstr "آیا میخواهید برنامه حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "آیا میخواهید بوک‌مارک حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "آیا میخواهید گواهی‌نامه حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "آیا میخواهید کانتکت  حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "آیا میخواهید پرونده حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "آیا میخواهید آیتم حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "آیا میخواهید فایل حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "آیا میخواهید پوشه و تمام محتویاتش حذف شود؟"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "آیا میخواهید پوشه‌های انتخاب شده و فایل‌هایشان حذف شوند؟"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "آیا میخواهید پوشه‌ها و فایل‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_html"
+msgstr "آیا میخواهید فایل وب حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "آیا میخواهید فایل تصویری حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "آیا میخواهید لینک حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "آیا میخواهید پیام حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "آیا میخواهید یادداشت حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "آیا میخواهید مورد انتخاب شده حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "آیا میخواهید برنامه‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "آیا میخواهید بوک‌مارک‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "آیا میخواهید گواهینامه‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "آیا میخواهید پرونده‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "آیا میخواهیدفایل‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "آیا میخواهید پوشه‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "آیا میخواهید فایل‌های وب انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "آیا میخواهید تصاویر انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "آیا میخواهید میانبرهای انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "آیا میخواهید پیام‌های انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "آیا میخواهید کلیپ‌های صوتی انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "آیا میخواهید کلیپ‌های ویدیویی انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "آیا میخواهید فایل‌های(ایکس ام ال) انتخاب شده حذف شوند؟"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "آیا میخواهید کلیپ صوتی حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "آیا میخواهید کلیپ ویدیویی حذف شود؟\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "آیا میخواهید فایل (ایکس ام ال) حذف شود؟\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "ذخیره به درستی انجام نشد.\nپوشش کارت حافظه باز است"
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "امکان باز کردن فایل وجود ندارد.\nفایل آسیب دیده است."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "تایید"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "امکان باز کردن فایل وجود ندارد.\nفرمت فایل پشتیبانی نمی‌شود."
+
+msgid "ckct_nw_pasting"
+msgstr "در حال انتقال فایل کپی شده"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "لغو کردن"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "پاک کردن"
+
+msgid "ckdg_ib_application_exists"
+msgstr "این نام در حال حاضر توسط برنامه‌ی دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "برنامه فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "این نام در حال حاضر توسط بوک‌مارک دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "بوک‌مارک فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "این نام در حال حاضر توسط گواهینامه‌ی دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "گواهینامه فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "ابتدا باید یک نام کاربری وارد کنید"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "نام کاربری نادرست است"
+
+msgid "ckdg_ib_document_exists"
+msgstr "این نام در حال حاضر توسط پرونده‌ی دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_enter_name"
+msgstr "ابتدا باید یک نام وارد کنید"
+
+msgid "ckdg_ib_file_exists"
+msgstr "این نام در حال حاضر توسط فایل دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "فایل فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "این نام در حال حاضر توسط پوشه‌ی دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "پوشه فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_html_exists"
+msgstr "این نام در حال حاضر توسط فایل وب دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "فایل وب فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr " در این فیلد مجاز نیست '%s' ورود کاراکتر "
+
+msgid "ckdg_ib_image_exists"
+msgstr "این نام در حال حاضر توسط فایل تصویری دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "فایل تصویری فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_link_exists"
+msgstr "این نام در حال حاضر توسط میانبر دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "میانبر فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "به حداکثر  تعداد کاراکتر مجاز رسیدید"
+
+msgid "ckdg_ib_message_exists"
+msgstr "این نام در حال حاضر توسط پیام دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "پیام فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "چیزی انتخاب نشده است که از حالت انتخاب خارج شود"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "چیزی وجود ندارد تا مشابهش ساخته شود"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "چیزی برای تغییر نام وجود ندارد"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "چیزی برای ارسال وجود ندارد"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "چیزی برای مرتب کردن وجود ندارد"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "فایل صوتی فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "این نام در حال حاضر توسط فایل صوتی دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "امکان کپی پوشه به داخل خودش وجود ندارد"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "امکان جابجایی یا کپی یک پوشه‌ی زیر مجموعه‌ی درون پوشه‌ی اصلی وجود ندارد"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "امکان انتخاب این آیتم وجود ندارد"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "امکان انتقال یک پوشه به داخل خودش وجود ندارد"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "امکان انتقال به موقعیت فعلی وجود ندارد"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "امکان انتقال فایل کپی شده در کنار خودش وجود ندارد"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "امکان تغییر نام وجود ندارد"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "امکان خارج کردن این آیتم از حالت انتخاب وجود ندارد"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "فایل ویدیویی فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_ib_video_exists"
+msgstr "این نام در حال حاضر توسط فایل ویدیویی دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "این نام در حال حاضر توسط فایل (ایکس ام ال) دیگری استفاده می‌شود"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "فایل (ایکس ام ال) فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "آیا میخواهید رمز حافظتی را حذف کنید؟"
+
+msgid "ckdg_pb_updating"
+msgstr "در حال بروز رسانی"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "متن مورد نظر را برای جستجو وارد کنید"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "ابتدا باید رمز را وارد کنید"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "رمز وارد شده مطابقت نمی‌کند"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "رمز عبور اشتباه است"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "جستجو نتیجه‌ای در بر نداشت"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "کپی شد"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "پرونده فقط قابل خواندن می‌باشد و امکان انجام تغییری بر روی آن نیست"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "چیزی برای کپی کردن وجود ندارد"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "چیزی برای انتقال وجود ندارد"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "چیزی کپی نشده است تا منتقل شود"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "عملیاتی برای لغو کردن وجود ندارد"
+
+msgid "file_ib_name_too_long"
+msgstr "نام مورد نظر بیش از حد طولانی است"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "چیزی برای نمایش وجود ندارد"
+
+msgid "sfil_ib_saved"
+msgstr "ذخیره شد"
+
+msgid "sfil_ib_saving"
+msgstr "در حال ذخیره"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "امکان جابجایی یا کپی یک پوشه‌ی زیر مجموعه‌ی درون پوشه‌ی اصلی وجود ندارد"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "امکان انتقال پوشه‌ی انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "امکان انتقال آیتم‌های انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "امکان حذف پوشه‌ی انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "امکان حذف آیتم‌های انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "امکان جابجایی پوشه‌ی انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "امکان جابجایی آیتم‌های انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "امکان باز کردن پوشه وجود ندارد.\nپوشه یافت نشد."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "امکان تغییر نام پوشه انتخاب شده وجود ندارد"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "امکان ارسال وجود ندارد"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "امکان ارسال پوشه‌ها وجود ندارد"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "آیا میخواهید قبل از بستن فایل ، تغییرات انجام شده ذخیره شوند؟"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "لغو کردن"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "خیر"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "بله"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "امکان ادامه‌ی کار وجود ندارد\nپوشه یافت نشد."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "بازکردن به درستی انجام نشد.\nپوشش کارت حافظه باز است"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "بازکردن به درستی انجام نشد.\nاتصال برقرار نیست."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "پوشه یافت نشد.\nدستگاه به پوشه‌ی دیگری تغییر مکان می‌دهد"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "فضای حافظه‌ی کافی در مسیر مورد نظر وجود ندارد"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_operation_failed"
+msgstr "عملیات انجام نشد"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "امکان باز کردن وجود ندارد.\nفایل یافت نشد."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "امکان باز کردن وجود ندارد.\nحجم فایل بسیار زیاد است."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "تایید"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "امکان تغییر نام وجود ندارد.\nفایل یافت نشد."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "تایید"
