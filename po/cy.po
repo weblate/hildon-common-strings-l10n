@@ -1,0 +1,745 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2012-02-07 10:06+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Pob eitem wedi ei farcio"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "Iawn"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_game"
+msgstr "Dileu gêm?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "Iawn"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Canslo"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Dileu"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Canslo"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Methu agosáu yma"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Dogfen mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Rhowch werth yn gyntaf"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Rhowch destun yn gyntaf"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Ffeil mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "Dogfen HTML mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Cymeriad annilys"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Llun mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_letters_only"
+msgstr "Llythrennau'n unig yn y maes yma"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Rhaid diffinio'r gwerth"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Lefel agosáu uchaf"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Neges mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Lefel agosáu isaf"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Dim i'w ddileu"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Dim i'w symud"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Dim i'w agor"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Dim i'w ddewis"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Dim i'w ddadwneud"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Rhifau'n unig yn y maes yma"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Dewis 1 eitem yn unig"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "Rhaid i'r dyddiad dechrau fod yn gynt na'r dyddiad gorffen"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Rhaid i'r amser dechrau fod yn gynt na'r amser gorffen"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Clip sain mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Methu copïo"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Methu torri"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Methu dileu"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Methu gludo yma"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Methu dadwneud"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Math ffeil anhysbys"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Clip fideo mewn defnydd gan raglen arall"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Dogfen XML mewn defnydd gan raglen arall"
+
+msgid "ckct_nc_delete_application"
+msgstr "Dileu rhaglen? %s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "Dileu tudnod? %s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "Dileu tystysgrif? %s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "Dileu cyswllt? %s"
+
+msgid "ckct_nc_delete_document"
+msgstr "Dileu dogfen? %s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "Dileu cofnod? %s"
+
+msgid "ckct_nc_delete_file"
+msgstr "Dileu ffeil? %s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Dileu ffolder a'i holl gynnwys?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Dileu ffolder a'r ffeil a ddewiswyd?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Dileu'r ffolderi a ffeil a ddewiswyd?"
+
+msgid "ckct_nc_delete_html"
+msgstr "Dileu dogfen HTML? %s"
+
+msgid "ckct_nc_delete_image"
+msgstr "Dileu llun? %s"
+
+msgid "ckct_nc_delete_link"
+msgstr "Dileu byrlwybr? %s"
+
+msgid "ckct_nc_delete_message"
+msgstr "Dileu neges? %s"
+
+msgid "ckct_nc_delete_note"
+msgstr "Dileu nodyn? %s"
+
+msgid "ckct_nc_delete_object"
+msgstr "Dileu gwrthrych? %s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Dileu'r rhaglenni a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Dileu'r tudnodau a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Dileu'r tystysgrifau a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Dileu'r dogfennau a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Dileu'r ffeiliau a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Dileu'r ffolderi a ddewiswyd, ynghyd a'u cynnwys?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Dileu'r ffeiliau HTML a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Dileu'r lluniau a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Dileu'r byrlwybrau a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Dileu'r negeseuon a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Dileu'r clipiau sain a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Dileu'r clipiau fideo a ddewiswyd?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Dileu'r dogfennau XML a ddewiswyd?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "Dileu'r clip sain? %s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "Dileu'r clip fideo? %s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "Dileu'r dogfen XML?"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "Ymyrrwyd ar y broses cadw. Clawr y cerdyn côf ar agor."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "Methu agor. Ffeil wedi'i lygru."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "Iawn"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "Methu agor. Fformad ffeil anghydnaws"
+
+msgid "ckct_nw_pasting"
+msgstr "Gludo"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Canslo"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Tynnu"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Enw rhaglen mewn defnydd"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Rhaglen darllen-yn-unig"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Enw tudnod mewn defnydd"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Tudnod darllen-yn-unig"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Enw tystysgrif mewn defnydd"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Tystysgrif darllen-yn-unig"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Rhowch enw defnyddiwr yn gyntaf"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Enw defnyddiwr anghywir"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Enw dogfen mewn defnydd"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Rhowch enw yn gyntaf"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Enw ffeil mewn defnydd"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Ffeil darllen-yn-unig"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Enw ffolder mewn defnydd"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Gêm darllen-yn-unig"
+
+msgid "ckdg_ib_html_exists"
+msgstr "Enw dogfen HTML mewn defnydd"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "Dogfen HTML darllen-yn-unig"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Ni all y maes gynnwyd '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Enw llun mewn defnydd"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Llun darllen-yn-unig"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Enw byrlwybr mewn defnydd"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Byrlwybr darllen-yn-unig"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Uchafswm cymeriadau wedi ei gyrraedd"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Enw neges mewn defnydd"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Neges darllen-yn-unig"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Dim i'w ddadfarcio"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Dim i'w ddyblygu"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Dim i'w ailenwi"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Dim i'w anfon"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Dim i'w sortio"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Clip sain darllen-yn-unig"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Enw clip sain mewn defnydd"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Methu copïo ffolder i fewn i'w hun"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Methu copïo neu symud is-ffolder o fewn y ffolder gwreiddiol"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Methu marcio'r eitem yma"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Methu symud ffolder i fewn i'w hun"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Methu symud i'r lleoliad bresennol"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Methu gludo yn y lleoliad gwreiddiol"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Methu ailenwi"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Methu dadfarcio'r eitem yma"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Clip fideo darllen-yn-unig"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Enw clip fideo mewn defnydd"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Enw dogfen XML mewn defnydd"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "Dogfen XML darllen-yn-unig"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Tynnu amddiffyniad cyfrinair?"
+
+msgid "ckdg_pb_updating"
+msgstr "Yn diweddaru"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Rhowch y testun i'w ganfod"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Rhowch y gyfrinair yn gyntaf"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Nid yw'r cyfrineiriau'n cydweddu"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Cyfrinair anghywir"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Dim yn cydweddu"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Copïwyd"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Dogfen darllen-yn-unig"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Dim i'w gopïo"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Dim i'w dorri"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Dim i'w ludo"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Dim i'w ddadwneud"
+
+msgid "file_ib_name_too_long"
+msgstr "Enw yn rhy hir"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Dim i'w weld"
+
+msgid "sfil_ib_saved"
+msgstr "Cadwyd"
+
+msgid "sfil_ib_saving"
+msgstr "Yn cadw"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Methu copïo neu symud is-ffolder o fewn y ffolder gwreiddiol"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Methu torri'r ffolder a ddewiswyd"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Methu torri'r eitemau a ddewiswyd"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Methu dileu'r ffolder a ddewiswyd"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Methu dileu'r eitemau a ddewiswyd"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Methu symud y ffolder a ddewiswyd"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Methu symud yr eitemau a ddewiswyd"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "Methu agor. Ni ganfuwyd y ffolder."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Methu ailenwi'r ffolder a ddewiswyd"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Methu anfon"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Methu anfon ffolderi"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Cadw'r ffeil cyn cau?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Gwaredu"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Na"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Cadw"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "Methu parhau. Ni ganfuwyd y ffolder."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "Methu agor. Clawr y cerdyn cof ar agor."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "Methu agor. Dim cysylltiad."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "Ni ganfuwyd y ffolder. Mae'r dyfais wedi newid at ffolder arall."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Diffyg cof yn y man a ddynodwyd."
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Methwyd y weithred"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "Methu agor. Ni ganfuwyd y ffeil."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "Methu agor. Ffeil yn rhy fawr."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "Iawn"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "Methu ailenwi. Ni ganfuwyd y ffeil."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "Iawn"
