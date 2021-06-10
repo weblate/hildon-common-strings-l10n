@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-11-30 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Всичко е маркирано"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "ОК"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_game"
+msgstr "Изтриване на играта?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "Добре"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Отказ"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Изтриване"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Отказ"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Невъзможно увеличение"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Документът вече се използва от друго приложение"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Първо въведете стойност"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Първо въведете текст"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Файлът вече се използва от друго приложение"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML документът вече се използва от друго приложение"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Невалиден символ"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Изображението вече се използва от друго приложение"
+
+msgid "ckct_ib_letters_only"
+msgstr "В това поле са разрешени само букви"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Трябва да бъде дефинирана стойност"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Достигнато е максималното увеличение"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Съобщението вече се използва от друго приложение"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Достигнато е минималното увеличение"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Няма за изтриване"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Няма за преместване"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Няма за отваряне"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Няма за избиране"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Няма за отмяна"
+
+msgid "ckct_ib_numbers_only"
+msgstr "В това поле са разрешени само цифри"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Изберете само 1 обект"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "Началната дата трябва да е преди крайната"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Началното време трябва да е при крайното"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Аудио файлът вече се използва от друго приложение"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Неуспешно копиране"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Неуспешно изрязване"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Неуспешно изтриване"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Неуспешно поставяне тук"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Неуспешна отмяна"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Незвестен тип файл"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Видео файлът вече се използва от друго приложение"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML документът вече се използва от друго приложение"
+
+msgid "ckct_nc_delete_application"
+msgstr "Изтриване на приложението?\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "Изтриване на отметката?\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "Изтриване на удостоверението?\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "Изтриване контакта?\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "Изтриване документа?\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "Изтриване на данните?\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "Изтриване файла?\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Изтриване папката и цялото и съдържание?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Изтриване на папката и на избрания файл?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Изтриване на избраните папки и на избрания файл?"
+
+msgid "ckct_nc_delete_html"
+msgstr "Изтриване HTML документа?\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "Изтриване на изображението?\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "Изтриване на прекия път?\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "Изтриване съобщението?\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "Изтриване на бележката?\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "Изтриване обекта?\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Изтриване на избраните приложения?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Изтриване избраните отметки?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Изтриване избраните удостоверения?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Изтриване избраните документи?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Изтриване избраните файлове?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Изтриване избраните папки и цялото тяхно съдържание?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Изтриване избраните HTML документи?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Изтриване избраните изображения?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Изтриване избраните преки пътища?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Изтриване избраните съобщения?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Изтриване избраните аудио файлове?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Изтриване избраните видео файлове?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Изтриване на избраните XML документи?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "Изтриване на аудио файла?\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "Изтриване на видео файла?\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "Изтриване на XML документа?\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "Записът прекъснат.\nКартата с външна памет е отворена."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "Неуспешно отваряне.\nФайлът е повреден."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "Добре"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "Неуспешно отваряне.\nТози тип файлове не се поддържат."
+
+msgid "ckct_nw_pasting"
+msgstr "Поставяне"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Отказ"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Премахване"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Приложението вече същестува"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Приложението е само за четене"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Отметката вече съществува"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Отметката е само за четене"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Удостоверението вече съществува"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Удостоверението е само за четене"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Първо въведете потребителско име"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Невалидно потребителско име"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Документът вече се използва"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Първо въведете име"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Файлът вече съществува"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Файлът е само за четене"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Папката вече съществува"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Играта е само за четене"
+
+msgid "ckdg_ib_html_exists"
+msgstr "HTML документът вече съществува"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML документът е само за четене"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Полето не може да съдържа '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Изображението вече съществува"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Изображението е само за четене "
+
+msgid "ckdg_ib_link_exists"
+msgstr "Прекият път вече съществува"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Прекият път е само за четене"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Достигнат е максималния брой символи"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Съобщението вече съществува"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Съобщението е само за четене"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Нищо за отмаркиране"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Нищо за дублиране"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Нищо за преименуване"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Нищо за изпращане"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Нищо за сортиране"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Аудио файлът е само за четене"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Аудио файлът вече съществува"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Не може да бъде копирана папка в себе си"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Подпапка не може да бъде преместена в там където се намира в момента"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Неуспешно маркиране на този елемент"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Не може да бъде копирана папка в себе си"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Неуспешно преместване към текущото място"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Неуспешно поставяне върху първоначалното място"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Неуспешно преименуване"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Неуспешно размаркиране на този елемент"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Видео файлът е само за четене"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Видео файлът вече съществува"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "XML документът вече съществува"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "XML документът е само за четене"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Премахване на защитата с парола?"
+
+msgid "ckdg_pb_updating"
+msgstr "Обновяване"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Въведете търсения текст"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Първо въведете парола"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Паролите не съвпадат"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Невалидна парола"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Няма съвпадения"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Успешно копиране"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Документът е само за четене"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Няма за копиране"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Няма за изрязване"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Няма за поставяне"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Няма за отмяна"
+
+msgid "file_ib_name_too_long"
+msgstr "Името е твърде дълго"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Няма за преглед"
+
+msgid "sfil_ib_saved"
+msgstr "Успешен запис"
+
+msgid "sfil_ib_saving"
+msgstr "Записване"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Подпапка не може да бъде преместена в там където се намира в момента"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Неуспешно изрязване на избраната папка"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Неуспешно изрязване на избраните елементи"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Неуспешно изтриване на избраната папка"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Неуспешно изтриване на избраните елементи"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Неуспешно преместване на избраната папка"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Неуспешно преместване на избраните елементи"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "Неуспешно отваряне.\nПапката не е намерена."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Неуспешно преименуване на избраната папка"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Неуспешно изпращане"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Неуспешно изпращане на папките"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Записване на файла преди затварянето?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Отказ"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Не"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Да"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "Не може да се продължи.\nПапката не е намерена."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "Отварянето прекъснато.\nКартата с външна памет е отворена."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "Отварянето прекъснато.\nНяма връзка."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "Папката не е намерена.\nУстройството премина към друга папка."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Няма достатъчно място на избраното място"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Неуспешна операция"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "Неуспешно отваряне.\nФайлът не е намерен."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "Неуспешно отваряне.\nФайлът е твърде голям."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "Добре"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "Неуспешно преименуване.\nФайлът не е намерен."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "Добре"
