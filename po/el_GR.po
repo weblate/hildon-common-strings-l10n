@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-11-30 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Όλα τα αντικείμενα ήδη σημειώθηκαν"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "ΟΚ"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_game"
+msgstr "Διαγραφή του παιχνιδιού;"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Διαγραφή"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Ακύρωση"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Αδυναμία μεγέθυνσης"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Το έγγραφο χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Εισάγετε την τιμή πρώτα"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Εισάγετε το κείμενο πρώτα"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Το αρχείο χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "Το έγγραφο HTML χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Άκυρος χαρακτήρας"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Η εικόνα χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_letters_only"
+msgstr "Μόνο γράμματα επιτρέπονται σε αυτό το πεδίο"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Η τιμή πρέπει να οριστεί"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Μέγιστο επίπεδο μεγέθυνσης"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Το μήνυμα χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Ελάχιστο επίπεδο μεγέθυνσης"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Τίποτα για διαγραφή"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Τίποτα για μετακίνηση"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Τίποτα για άνοιγμα"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Τίποτα για επιλογή"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Τίποτα για αναίρεση"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Μόνο αριθμοί επιτρέπονται σε αυτό το πεδίο"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Επιλέξτε 1 αντικείμενο μόνο"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "Η ημερομηνία εκκίνησης πρέπει να είναι παλαιότερη από αυτήν του τέλους"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Ο χρόνος εκκίνησης πρέπει να είναι παλαιότερος από αυτόν του τέλους"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Το κλιπ ήχου χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Αδυναμία αντιγραφής"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Αδυναμία αποκοπής"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Αδυναμία διαγραφής"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Αδυναμία επικόλλησης εδώ"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Αδυναμία αναίρεσης"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Άγνωστος τύπος αρχείου"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Το κλιπ βίντεο χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Το έγγραφο XML χρησιμοποιείται ήδη από άλλη εφαρμογή"
+
+msgid "ckct_nc_delete_application"
+msgstr "Διαγραφή της εφαρμογής;\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "Διαγραφή του σελιδοδείκτη;\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "Διαγραφή του πιστοποιητικού;\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "Διαγραφή της επαφής;\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "Διαγραφή του εγγράφου;\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "Διαγραφή της εγγραφής;\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "Διαγραφή του αρχείου;\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Διαγραφή του φακέλου και όλων των περιεχομένων του;"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Διαγραφή του φακέλου και του επιλεγμένου αρχείου;"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Διαγραφή των επιλεγμένων φακέλων και αρχείων;"
+
+msgid "ckct_nc_delete_html"
+msgstr "Διαγραφή του εγγράφου HTML;\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "Διαγραφή της εικόνας;\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "Διαγραφή της συντόμευσης;\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "Διαγραφή του μηνύματος\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "Διαγραφή της σημείωσης;\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "Διαγραφή του αντικειμένου;\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Διαγραφή των επιλεγμένων εφαρμογών;"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Διαγραφή των επιλεγμένων σελιδοδεικτών;"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Διαγραφή των επιλεγμένων πιστοποιητικών;"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Διαγραφή των επιλεγμένων εγγράφων;"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Διαγραφή των επιλεγμένων αρχείων;"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Διαγραφή των επιλεγμένων φακέλων και όλων των περιεχομένων τους;"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Διαγραφή των επιλεγμένων εγγράφων HTML;"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Διαγραφή των επιλεγμένων εικόνων;"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Διαγραφή των επιλεγμένων συντομεύσεων;"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Διαγραφή των επιλεγμένων μηνυμάτων;"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Διαγραφή των επιλεγμένων κλιπ ήχου;"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Διαγραφή των επιλεγμένων κλιπ βίντεο;"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Διαγραφή των επιλεγμένων εγγράφων XML;"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "Διαγραφή του κλιπ ήχου\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "Διαγραφή του κλιπ βίντεο;\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "Διαγραφή του εγγράφου XML;\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "Η αποθήκευση διακόπηκε.\nΤο καπάκι της κάρτας μνήμης είναι ανοιχτό."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "Αδυναμία ανοίγματος.\nΤο αρχείο είναι κατεστραμμένο."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "ΟΚ"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "Αδυναμία ανοίγματος.\nΟ τύπος αρχείου δεν υποστηρίζεται."
+
+msgid "ckct_nw_pasting"
+msgstr "Επικόλληση"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Ακύρωση"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Κατάργηση"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Το όνομα της εφαρμογής είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Η εφαρμογή είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Το όνομα του σελιδοδείκτη είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Ο σελιδοδείκτης είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Το όνομα του πιστοποιητικού είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Το πιστοποιητικό είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Εισάγετε το όνομα πρώτα"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Λάθος όνομα χρήστη"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Το όνομα του εγγράφου είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Εισάγετε το όνομα πρώτα"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Το όνομα του αρχείου είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Το αρχείο είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Το όνομα του φακέλου είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Το παιχνίδι είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_html_exists"
+msgstr "Το όνομα του εγγράφου HTML είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "Το έγγραφο HTML είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Το πεδίο δεν γίνεται να περιέχει '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Το όνομα της φωτογραφίας είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Η φωτογραφία είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Το όνομα της συντόμευσης είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Η συντόμευση είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Μέγιστος αριθμός χαρακτήρων"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Το όνομα του μηνύματος είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Το μήνυμα είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Τίποτα για αποεπιλογή"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Τίποτα για δημιουργία αντίτυπου"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Τίποτα για μετονομασία"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Τίποτα για αποστολή"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Τίποτα για ταξινόμηση"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Το κλιπ ήχου είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Το κλιπ ήχου είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Αδυναμία αντιγραφής φακέλου στον εαυτό του"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Αδυναμία αντιγραφής ή μετακίνησης ενός υποφακέλου μέσα στον αρχικό φάκελο"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Αδυναμία επιλογής αυτού του αντικειμένου"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Αδυναμία μετακίνησης φακέλου στον εαυτό του"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Αδυναμία μετακίνησης στην τρέχουσα τοποθεσία"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Αδυναμία επικόλλησης στην ίδια τοποθεσία"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Αδυναμία μετονομασίας"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Αδυναμία επιλογής αυτού του αντικειμένου"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Το κλιπ βίντεο είναι μόνο για ανάγνωση"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Το όνομα του κλιπ βίντεο είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Το όνομα του εγγράφου XML είναι ήδη σε χρήση"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "Το έγγραφο XML είναι μόνο για ανάγνωση"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Κατάργηση προστασίας με κωδικό;"
+
+msgid "ckdg_pb_updating"
+msgstr "Ενημέρωση"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Εισάγετε το κείμενο προς αναζήτηση"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Εισάγετε τον κωδικό πρώτα"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Λάθος κωδικός"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Δεν βρέθηκαν αντιστοιχίες"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Αντιγράφτηκε"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Το έγγραφο είναι μόνο για ανάγνωση"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Τίποτα για αντιγραφή"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Τίποτα για αποκοπή"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Τίποτα για επικόλληση"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Τίποτα για αναίρεση"
+
+msgid "file_ib_name_too_long"
+msgstr "Πολύ μεγάλο όνομα"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Τίποτα για προβολή"
+
+msgid "sfil_ib_saved"
+msgstr "Αποθηκεύτηκε"
+
+msgid "sfil_ib_saving"
+msgstr "Αποθήκευση"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Αδυναμία αντιγραφής ή μετακίνησης ενός υποφακέλου μέσα στον αρχικό φάκελο"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Αδυναμία αποκοπής του επιλεγμένου φακέλου"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Αδυναμία αποκοπής των επιλεγμένων αντικειμένων"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Αδυναμία διαγραφής του επιλεγμένου φακέλου"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Αδυναμία διαγραφής των επιλεγμένων αντικειμένων"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Αδυναμία μετακίνησης του επιλεγμένου φακέλου"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Αδυναμία μετακίνησης των επιλεγμένων αντικειμένων"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "Αδυναμία ανοίγματος.\nΟ φάκελος δεν βρέθηκε."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Αδυναμία μετονομασίας του επιλεγμένου φακέλου"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Αδυναμία αποστολής"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Αδυναμία αποστολής φακέλων"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Να αποθηκευθεί το αρχείο πριν το κλείσιμο;"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Ακύρωση"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Όχι"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Ναι"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "Αδυναμία συνέχισης.\nΟ φάκελος δεν βρέθηκε."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "Το άνοιγμα διακόπηκε.\nΤο καπάκι της κάρτας μνήμης είναι ανοιχτό."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "Το άνοιγμα διακόπηκε.\nΔεν υπάρχει σύνδεση."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "Ο φάκελος δεν βρέθηκε.\nΗ συσκευή μετακινήθηκε σε άλλο φάκελο."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Δεν υπάρχει αρκετή μνήμη στον επιλεγμένο προορισμό"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Η λειτουργία απέτυχε"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "Αδυναμία ανοίγματος.\nΤο αρχείο δεν βρέθηκε."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "Αδυναμία ανοίγματος.\nΤο αρχείο είναι πολύ μεγάλο."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "ΟΚ"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "Αδυναμία μετονομασίας.\nΤο αρχείο δεν βρέθηκε."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "ΟΚ"
