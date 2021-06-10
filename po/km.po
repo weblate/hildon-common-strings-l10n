@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-11-30 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "រាល់មុខរបស់ដាក់សំគាល់"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "យល់ព្រម"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_game"
+msgstr "លុបចោលល្បែងកំសាន្ត?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "យល់ព្រម"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "លុបចោល"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "បោះចោល"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "មិនអាចពង្រីកពង្រួម"
+
+msgid "ckct_ib_document_already_open"
+msgstr "ឯកសារត្រូវបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "បញ្ចូលតំលៃជាមុន"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "បញ្ចូលអក្សរជាមុន"
+
+msgid "ckct_ib_file_already_open"
+msgstr "ឯកសារត្រូវបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "ឯកសារ HTML ត្រូវបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_illegal_character"
+msgstr "អក្សរគ្មានសុពលភាព"
+
+msgid "ckct_ib_image_already_open"
+msgstr "រូបភាពត្រូវបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_letters_only"
+msgstr "មានតែអក្សរទេអាចបញ្ចូលទីនេះបាន"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "តំលៃត្រូវតែកំណត់"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "ពង្រីកបង្រួមទៅដល់អតិបរមា"
+
+msgid "ckct_ib_message_already_open"
+msgstr "សារត្រូវបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "ពង្រីកបង្រួមទៅដល់អប្បបរមា"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "គ្មានអ្វីលុបចោល"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "គ្មានអ្វីផ្លាស់ទី"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "គ្មានអ្វីបើក"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "គ្មានអ្វីជ្រើស"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "គ្មានអ្វីមិនធ្វើវិញ"
+
+msgid "ckct_ib_numbers_only"
+msgstr "មានតែលេខអាចបញ្ចូលទីនេះបាន"
+
+msgid "ckct_ib_select_single_item"
+msgstr "ជ្រើសតែ 1 មុខរបស់"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "ថ្ងៃចាប់ផ្តើមត្រូវតែមុនថ្ងៃបញ្ចប់"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "ពេលចាប់ផ្តើមត្រូវតែមុនពេលបញ្ចប់"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "កំណាត់សំលេងបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "មិនអាចចម្លង"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "មិនអាចកាត់"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "មិនអាចលុប"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "មិនអាចបិទភ្ជាប់ទីនេះ"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "មិនអាចមិនធ្វើវិញ"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "មិនស្គាល់ប្រភេទឯកសារ"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "កំណាត់ភាពយន្តបានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "ឯកសារ XML បានប្រើដោយកម្មវិធីផ្សេង"
+
+msgid "ckct_nc_delete_application"
+msgstr "លុបចោលកម្មវិធី?\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "លុបចោលសៀវភៅចំណាំ?\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "លុបចោលលិខិតបញ្ជាក់?\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "លុបចោលឈ្មោះទំនាក់ទំនង?\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "លុបចោលឯកសារ?\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "លុបចោលអត្ថបទ?\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "លុបចោលឯកសារ?\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "លុបចោលថតឯកសារ និងរាល់មាតិកា?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "លុបចោលថតឯកសារ និងឯកសារដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "លុបចោលថតឯកសារ និងឯកសារដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_html"
+msgstr "លុបចោលឯកសារ HTML?\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "លុបចោលរូបភាព?\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "លុបចោលផ្លូវកាត់?\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "លុបចោលសារ?\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "លុបចោលកំណត់ចំណាំ?\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "លុបចោលកម្មវត្ថុ?\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "លុបចោលកម្មវិធីដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "លុបចោលសៀវភៅចំណាំ?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "លុបចោលលិខិតបញ្ជាក់ដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "លុបចោលឯកសារដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "លុបចោលឯកសារដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "លុបចោលថតឯកសារ និងរាល់មាតិកា?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "ចឯកសារ HTML ?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "លុបចោលរូបភាពដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "លុបចោលផ្លូវកាត់ដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "លុបចោលសារដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "លុបចោលកំណាត់សំលេងដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "លុបចោលផកំណាត់ភាពយន្តដែលបានជ្រើស?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "លុបចោលឯកសារ XML ?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "លុបចោលកំណាត់សំលេង?\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "លុបចោលកំណាត់ភាពយន្ត?\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "លុបឯកសារ XML ?\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "រក្សាទុកបានខូច។\nគំរបអង្គចងចាំបានបើក។"
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "មិនអាចបើក។\nឯកសារខូច"
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "យល់ព្រម"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "មិនអាចបើក។\nប្រភេទឯកសារមិនត្រឹមត្រូវ។"
+
+msgid "ckct_nw_pasting"
+msgstr "កុំពុងបិទភ្ជាប់"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "បោះចោល"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "យកចេញ"
+
+msgid "ckdg_ib_application_exists"
+msgstr "ឈ្មោះកម្មវិធីបានប្រើរួចហើយ"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "កម្មវិធីបានតែមើល"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "ឈ្មោះសៀវភៅចំណាំបានប្រើរួច"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "សៀវភៅចំណាំបានតែមើល"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "ឈ្មោះលិខិតបញ្ជាក់បានប្រើរួច"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "លិខិតបញ្ជាក់បានតែមើល"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "បញ្ចូលឈ្មោះអ្នកប្រើមុន"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "ឈ្មោះអ្នកប្រើមិនត្រឹមត្រូវ"
+
+msgid "ckdg_ib_document_exists"
+msgstr "ឈ្មោះឯកសារបានប្រើរួច"
+
+msgid "ckdg_ib_enter_name"
+msgstr "បញ្ចូលឈ្មោះមុន"
+
+msgid "ckdg_ib_file_exists"
+msgstr "ឈ្មោះឯកសារបានប្រើរួច"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "ឯកសារគឺបានតែមើល"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "ឈ្មោះថតឯកសារបានប្រើរួច"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "ល្បែងកំសាន្តគឺបានតែមើល"
+
+msgid "ckdg_ib_html_exists"
+msgstr "ឈ្មោះឯកសារ HTML បានប្រើរួច"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "ឈ្មោះឯកសារ HTML បានតែមើល"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "ចន្លោះទំនេរមិនអាចផ្ទុក'%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "ឈ្មោះរូបភាពបានប្រើរួច"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "រូបភាពបានតែមើស"
+
+msgid "ckdg_ib_link_exists"
+msgstr "ឈ្មោះផ្លូវកាត់បានប្រើរួច"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "ផ្លូវកាត់បានតែមើល"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "អក្សរបានដល់ចំនួនអតិបរមា"
+
+msgid "ckdg_ib_message_exists"
+msgstr "ឈ្មោះសារបានប្រើរួច"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "សារបានតែមើល"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "គ្មានអ្វីដោះសំគាល់"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "គ្មានអ្វីចម្លង"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "គ្មានអ្វីប្តូរឈ្មោះ"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "គ្មានអ្វីផ្ញើ"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "គ្មានអ្វីតំរៀប"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "កំណាត់សំលេងបានតែស្តាប់"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "ឈ្មោះកំណាត់សំលេងបានប្រើរួច"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "មិនអាចចម្លងថតឯកសារទៅកាន់ខ្លួនឯង"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "មិនអាចចម្លង ឫផ្លាស់ទីថតឯកសារខាងក្នុងទៅកាន់ថតឯកសារដើម"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "មិនអាចសំគាល់របស់នេះ"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "មិនអាចផ្លាស់ថតទីឯកសារទៅកាន់ខ្លួនឯង"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "មិនអាចផ្លាស់ទីទៅកាន់ទីតាំងបច្ចុប្បន្ន"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "មិនអាចបិទភ្ជាប់ទៅកាន់ទីតាំងដើម"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "មិនអាចប្តូរឈ្មោះ"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "មិនអាចដោះសំគាល់របស់នេះ"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "កំណាត់ភាពយន្តគឺបានតែមើល"
+
+msgid "ckdg_ib_video_exists"
+msgstr "ឈ្មោះកំណាត់ភាពយន្តបានប្រើរួច"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "ឈ្មោះឯកសារ XML បានប្រើរួច"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "ឯកសារ XML បានតែមើល"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "យកការការពារលេខសំងាត់ចេញ?"
+
+msgid "ckdg_pb_updating"
+msgstr "កុំពុងបន្ទាន់សម័យ"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "បញ្ចូលអក្សរសំរាប់រក"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "បញ្ចូលលេខសំងាត់មុន"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "លេខសំងាត់មិនត្រូវគ្នា"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "លេខសំងាត់មិនត្រឹមត្រូវ"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "រកមិនឃើញភាពត្រូវគ្នា"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "បានចម្លង"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "ឯកសារបានតែមើល"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "គ្មានអ្វីចម្លង"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "គ្មានអ្វីកាត់"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "គ្មានអ្វីបិទភ្ជាប់"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "គ្មានអ្វីមិនធ្វើវិញ"
+
+msgid "file_ib_name_too_long"
+msgstr "ឈ្មោះវែងពេក"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "គ្មានអ្វីមើល"
+
+msgid "sfil_ib_saved"
+msgstr "បានរក្សាទុក"
+
+msgid "sfil_ib_saving"
+msgstr "កំពុងរក្សា"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "មិនអាចចម្លង ឫផ្លាស់ទីថតឯកសារខាងក្នុងជាមួយថតឯកសារដើម"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "មិនអាចកាត់យកថតឯកសារដែលបានជ្រើស"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "មិនអាចកាត់យករបស់ដែលបានជ្រើស"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "មិនអាចលុបចោលថតឯកសារដែលបានជ្រើស"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "មិនអាចលុបចោលរបស់ដែលបានជ្រើស"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "មិនអាចផ្លាស់ទីថតឯកសារដែលបានជ្រើស"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "មិនអាចផ្លាស់ទីរបស់ដែលបានជ្រើស"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "មិនអាចបើក។\nរកថតឯកសារមិនឃើញ។"
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "មិនអាចប្តូរឈ្មោះថតឯកសារដែលបានជ្រើសរើស"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "មិនអាចផ្ញើ"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "មិនអាចផ្ញើថតឯកសារ"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "រក្សាឯកសារមុនពេលបិទ?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "បោះចោល"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "ទេ"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "បាទ/ចាស៎"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "មិនអាចបន្ត។\nរកថតថតឯកសារមិនឃើញ។"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "ការបើកបានខូច។\nគំរបអង្គចងចាំបានបើក"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "ការបើកបានខូច។\nគ្មានការភ្ជាប់បណ្តាញ"
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "រកថតឯកសារមិនឃើញ។\nឧបករណ៍បានប្តូរទៅថតឯកសារផ្សេងមួយទៀត។"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "មិនមានកន្លែងទំនេរគ្រប់គ្រាន់សំរាប់គោលដៅ"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_operation_failed"
+msgstr "ប្រតិបត្តិការមិនសំរេច"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "មិនអាចបើក។\nរកឯកសារមិនឃើញ។"
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "មិនអាចបើក.\nឯកសារធំពេក។"
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "យល់ព្រម"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "មិនអាចប្តូរឈ្មោះ។\nរកឯកសារមិនឃើញ។"
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "យល់ព្រម"
