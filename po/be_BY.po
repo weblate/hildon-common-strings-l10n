@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2012-04-15 06:56+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Усе пункты ўжо адзначаны"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_game"
+msgstr "Выдаліць гульню?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "ОК"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Выдаліць"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Скасаваць"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "Немагчыма ўвялічыць"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Дакумент ужо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Спачатку ўвядзіце значэнне"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Спачатку ўвядзіце тэкст"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Файл ужо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML дакумент ужо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Няправільны сімвал"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Выява ўжо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_letters_only"
+msgstr "У гэтым полі дазволены толькі літары"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Значэнне павінна быць вызначана"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Дасягнуты максімальны маштаб"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Паведамленне ўжо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Дасягнуты мінімальны маштаб"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Няма чаго выдаліць"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Няма чаго перамясціць"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Няма чаго адчініць"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Няма чаго выбраць"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Няма чаго скасаваць"
+
+msgid "ckct_ib_numbers_only"
+msgstr "У гэтым полі дазволены толькі лічбы"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Абярыце толькі 1 пункт"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "Дата пачатку павінна быць раней, чым дата заканчэння"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Час пачатку павінен быць раней, чым час заканчэння"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Аўдыёкліп ужо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "Немагчыма капіраваць"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "Немагчыма выразаць"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "Немагчыма выдаліць"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "Немагчыма ўставіць тут"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "Немагчыма скасаваць"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Невядомы тып файла"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Відэакліп ужо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Дакумент XML ужо выкарыстоўваецца іншым прыкладаннем"
+
+msgid "ckct_nc_delete_application"
+msgstr "Выдаліць прыкладанне? \n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "Выдаліць закладку? \n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "Выдаліць сертыфікат? \n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "Выдаліць кантакт? \n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "Выдаліць дакумент? \n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "Выдаліць запіс? \n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "Выдаліць файл? \n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "Выдаліць тэчку? \n%s"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "Выдаліць тэчку і абраны файл? \n%s"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "Выдаліць тэчкі і абраны файл? \n%s"
+
+msgid "ckct_nc_delete_html"
+msgstr "Выдаліць HTML дакумент? \n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "Выдаліць выяву? \n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "Выдаліць скарот? \n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "Выдаліць паведамленне? \n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "Выдаліць нататку? \n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "Выдаліць аб'ект? \n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "Выдаліць абраныя прыкладанні?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "Выдаліць абраныя закладкі?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "Выдаліць абраныя сертыфікатыі?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "Выдаліць абраныя дакументы?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "Выдаліць абраныя файлы?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "Выдаліць абраныя тэчкі?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "Выдаліць абраныя HTML дакументыі?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "Выдаліць абраныя выявы?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "Выдаліць абраныя скароты?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "Выдаліць абраныя паведамленні?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "Выдаліць абраныя аўдыёкліпы?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "Выдаліць абраныя відэакліпы?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "Выдаліць абраныя XML дакументы?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "Выдаліць аўдыёкліп? \n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "Выдаліць відэакліп? \n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "Выдаліць XML дакумент? \n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "Захаванне перапынена. \nВечка карты памяці адчыненае."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "Немагчыма адчыніць. \nФайл пашкоджаны."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "OK"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "Немагчыма адчыніць. \nФармат файла не падрымліваецца."
+
+msgid "ckct_nw_pasting"
+msgstr "Устаўка"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Скасаваць"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Выдаліць"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Прыкладанне ўжо існуе"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Прыкладанне толькі для чытання"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Закладка ўжо існуе"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Закладка толькі для чытання"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Сертыфікат ужо існуе"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Сертыфікат толькі для чытання"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Спачатку ўвядзіце імя карыстальніка"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Няправільнае імя карыстальніка"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Дакумент ужо існуе"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Спачатку ўвядзіце імя"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Файл ужо існуе"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Файл толькі для чытання"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Тэчка ўжо існуе"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Тэчка толькі для чытання"
+
+msgid "ckdg_ib_html_exists"
+msgstr "HTML дакумент ужо існуе"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML дакумент толькі для чытання"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "Поле не можа ўтрымліваць '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Малюнак ужо існуе"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Малюнак толькі для чытання"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Скарот ужо існуе"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Скарот толькі для чытання"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "Дасягнула максімальная колькасць сімвалаў"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Паведамленне ўжо існуе"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Паведамленне толькі для чытання"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Няма чаго знімаць"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Няма чаго дубляваць"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Няма чаго перайменаваць"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Няма чаго даслаць"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Няма чаго сартаваць"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Аўдыёкліп толькі для чытання"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Аўдыёкліп ужо існуе"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "Немагчыма скапіяваць тэчку ў саму сябе"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "Немагчыма скапіяваць або перамясціць падтэчку туды, дзе яна зараз знаходзіцца"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "Немагчыма адзначыць гэты элемент"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "Немагчыма перамясціць тэчку ў саму сябе"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "Немагчыма перайсці да бягучай пазіцыі"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "Немагчыма ўставіць у зыходнае знаходжанне"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "Немагчыма перайменаваць"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "Немагчыма зняць гэты элемент"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Відэакліп толькі для чытання"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Відэакліп ужо існуе"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Дакумент XML ужо існуе"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "Дакумент XML толькі для чытання"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "Выдаліць парольную абарону?"
+
+msgid "ckdg_pb_updating"
+msgstr "Абнаўленне"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Увядзіце тэкст для пошуку"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Спачатку ўвядзіце пароль"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Паролі не супадаюць"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Няправільны пароль"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "Не знойдзена супадзенняў"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Капіравана"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Дакумент толькі для чытання"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Няма чаго капіяваць"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Няма чаго выразаць"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Няма чаго ўстаўляць"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Няма чаго скасаваць"
+
+msgid "file_ib_name_too_long"
+msgstr "Занадта доўгае імя"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Няма чаго глядзець"
+
+msgid "sfil_ib_saved"
+msgstr "Захавана"
+
+msgid "sfil_ib_saving"
+msgstr "Захаванне"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "Немагчыма скапіяваць або перамясціць падтэчку туды, дзе яна зараз знаходзіцца"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "Немагчыма выразаць абраную тэчку"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "Немагчыма выдаліць абраныя пункты"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "Немагчыма выдаліць абраную тэчку"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "Немагчыма выдаліць абраныя пункты"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "Немагчыма перамясціць абраную тэчку"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "Немагчыма перамясціць абраныя пункты"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "Немагчыма адчыніць. \nТэчка не знойдзена."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "Немагчыма перайменаваць абраную тэчку"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "Немагчым даслаць"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "Немагчыма даслаць тэчкі"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Захаваць файл перад зачыненнем?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Скасаваць"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "Не"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Так"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "Немагчыма працягнуць. \nТэчка не знойдзена."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "ОК"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "Адкрыццё перапынена. \nВечка карты памяці адчынена."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "OK"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "Адкрыццё перапыненая. \nНяма злучэння."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "OK"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "Тэчка не знойдзена.Дэвайс перамычаны на іншую тэчку."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "OK"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "Недастаткова памяці ў абраным месцы"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "OK"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Няўдалая аперацыя"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "Немагчыма адчыніць. \nФайл не знойдзены."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "Немагчыма адчыніць. \nФайл занадта вялікі."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "OK"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "Немагчыма перайменаваць. \nФайл не знойдзены."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "OK"
