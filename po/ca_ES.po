@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-11-30 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "Tots els objectes marcats"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "D'acord"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_game"
+msgstr "S'esborra el joc?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "D'acord"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "Esborra"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "Cancel·la"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "No es pot ampliar"
+
+msgid "ckct_ib_document_already_open"
+msgstr "Document en ús per una altra aplicació"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "Introduïu un valor"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "Introduïu un text"
+
+msgid "ckct_ib_file_already_open"
+msgstr "Fitxer en ús per una altra aplicació"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "Document HTML en ús per una altra aplicació"
+
+msgid "ckct_ib_illegal_character"
+msgstr "Caràcter no vàlid"
+
+msgid "ckct_ib_image_already_open"
+msgstr "Imatge en ús per una altra aplicació"
+
+msgid "ckct_ib_letters_only"
+msgstr "Només es permeten lletres"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "Camp obligatori"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "Aquest es el màxim nivell d'ampilació"
+
+msgid "ckct_ib_message_already_open"
+msgstr "Missatge en ús per una altra aplicació"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "Aquest es el mínim nivell d'ampilació"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "Res per esborrar"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "Res per a moure"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "Res per obrir"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "Res per seleccionar"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "Res per desfer"
+
+msgid "ckct_ib_numbers_only"
+msgstr "Només es permeten nombres"
+
+msgid "ckct_ib_select_single_item"
+msgstr "Selecciona 1 objecte"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "Data inicial ha de ser inferior a data final"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "Hora inicial ha de ser inferior a hora final"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "Fitxer d'audio en ús per una altra aplicació"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "No es pot copiar"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "No es pot tallar"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "No es pot esborrar"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "No es pot enganxar aquí"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "No es pot desfer"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "Tipus de fitxer desconegut"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "Fitxer de vídeo en ús per una altra aplicació"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "Document XML en ús per una altra aplicació"
+
+msgid "ckct_nc_delete_application"
+msgstr "S'esborra l'aplicació?\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "S'esborra el preferit?\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "S'esborra el certificat?\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "S'esborra el contacte?\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "S'esborra el document?\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "S'esborra l'entrada?\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "S'esborra el fitxer?\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "S'esborra el directori i tots els seus continguts?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "S'esborren directori i fitxer seleccionat?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "S'esborren directoris i fitxer seleccionats?"
+
+msgid "ckct_nc_delete_html"
+msgstr "S'esborra el document HTML?\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "S'esborra la imatge?\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "S'esborra la drecera?\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "S'esborra el missatge?\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "S'esborra la nota?\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "S'esborra l'objecte?\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "S'esborren aplicacions seleccionades?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "S'esborren preferits seleccionats?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "S'esborren certificats seleccionats?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "S'esborren documents seleccionats?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "S'esborren fitxers seleccionats?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "S'esborren directoris seleccionats i tot llur contingut?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "S'esborren documents HTML seleccionats?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "S'esborren imatges seleccionades?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "S'esborren dreceres seleccionades?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "S'esborren missatges seleccionats?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "S'esborren fitxers de so seleccionats?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "S'esborren fitxers de vídeo seleccionats?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "S'esborren documents XML seleccionats?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "S'esborren fitxers d'àudio?\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "S'esborren fitxers de vídeo?\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "S'esborra document XML?\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "Operació interrompuda.\nRanura targeta de memòria oberta."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "No es pot obrir.\nFitxer malmès."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "D'acord"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "No es pot obrir.\nFormat de fitxer no suportat."
+
+msgid "ckct_nw_pasting"
+msgstr "Enganxant"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "Cancel·la"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "Esborra"
+
+msgid "ckdg_ib_application_exists"
+msgstr "Nom de l'aplicació en ús"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "Aplicació de només lectura"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "Ja existeix un preferit amb aquest nom"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "Preferit de només lectura"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "Nom de certificat en ús"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "Certificat de només lectura"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "Introduïu un nom d'usuari"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "Nom d'usuari incorrecte"
+
+msgid "ckdg_ib_document_exists"
+msgstr "Nom de document en ús"
+
+msgid "ckdg_ib_enter_name"
+msgstr "Introduïu un nom"
+
+msgid "ckdg_ib_file_exists"
+msgstr "Nom de fitxer en ús"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "Fitxer de només lectura"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "Nom de directori en ús"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "Joc de només lectura"
+
+msgid "ckdg_ib_html_exists"
+msgstr "Nom de document HTML en ús"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "Document HTML de només lectura"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "El camp no pot contenir '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "Nom d'imatge en ús"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "Imatge de només lectura"
+
+msgid "ckdg_ib_link_exists"
+msgstr "Nom d'accés directe en ús"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "Accés directe de només lectura"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "S'ha arribat al màxim nombre de caràcters"
+
+msgid "ckdg_ib_message_exists"
+msgstr "Nom de missatge en ús"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "Missatge de només lectura"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "Res per desmarcar"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "Res per duplicar"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "Res per reanomenar"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "Res per enviar"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "Res per ordenar"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "Fitxer d'àudio de només lectura"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "Nom de fitxer d'àudio en ús"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "No es pot copiar un directori en sí mateix"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "No es pot copiar o moure un subdirectori dins del directori original"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "No es pot marcar aquest objecte"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "No es pot moure el directori a sí mateix"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "No es pot moure a la localització actual"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "No es pot enganxar a la localització original"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "No es pot renombrar"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "No es pot desmarcar aquest objecte"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "Fitxer de vídeo de només lectura"
+
+msgid "ckdg_ib_video_exists"
+msgstr "Nom de fitxer de vídeo en ús"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "Nom de Document XML en ús"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "Document XML de només lectura"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "S'elimina protecció amb contrasenya?"
+
+msgid "ckdg_pb_updating"
+msgstr "S'està actualitzant"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "Introduïu un text per cercar"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "Introduïu una contrasenya"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "Les contrasenyes no concorden"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "Contrasenya incorrecta"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "No s'han trobat coincidències"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "Copiat"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "Document només de lectura"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "Res per copiar"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "Res per retallar"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "Res per enganxar"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "Res per desfer"
+
+msgid "file_ib_name_too_long"
+msgstr "Nom massa llarg"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "Res per veure"
+
+msgid "sfil_ib_saved"
+msgstr "Desat"
+
+msgid "sfil_ib_saving"
+msgstr "S'està desant"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "No es pot copiar o moure un subdirectori dins del directori original"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "No es pot retallar el directori seleccionat"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "No es poden tallar els objectes seleccionats"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "No es pot esborrar el directori"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "No es poden esborrar els objectes seleccionats"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "No es pot moure el directori"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "No es poden moure els objectes seleccionats"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "No es pot obrir.\nDirectori no trobat"
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "No es pot reanomenar el directori seleccionat"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "No es pot enviar"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "No es poden enviar directoris"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "Es desa abans de tancar?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "Cancel·la"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "No"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "Sí"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "No es pot continuar.\nDirectori no trobat."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "Operació interrompuda.\nRanura targeta de memòria oberta."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "Operació interrompuda.\nSense connexió."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "Directori no trobat.\nEs canvia a un altre directori."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "No hi ha prou espai a la destinació"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_operation_failed"
+msgstr "Operació fallada"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "No es pot obrir.\nFitxer no trobat."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "No es pot obrir.\nFitxer massa gran."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "D'acord"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "No s'ha pogut reanomenar.\nFitxer no trobat."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "D'acord"
