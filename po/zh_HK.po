@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-11-30 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "所有項目已被標記"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "確定"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_game"
+msgstr "刪除遊戲?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "確定"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "取消"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "刪除"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "取消"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "無法縮放"
+
+msgid "ckct_ib_document_already_open"
+msgstr "文件檔正被其他軟件使用"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "請先輸入數值"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "請先輸入文字"
+
+msgid "ckct_ib_file_already_open"
+msgstr "檔案正被其他軟件使用"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML文件檔正被其他軟件使用"
+
+msgid "ckct_ib_illegal_character"
+msgstr "無效的字符"
+
+msgid "ckct_ib_image_already_open"
+msgstr "圖片正被其他軟件使用"
+
+msgid "ckct_ib_letters_only"
+msgstr "該欄只可輸入英文字母"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "必須定義數值"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "已達到最高縮放級別"
+
+msgid "ckct_ib_message_already_open"
+msgstr "訊息正被其他軟件使用"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "已達到最低縮放級別"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "沒有可以刪除的項目"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "沒有可以移動的項目"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "沒有可以開啟的項目"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "沒有可以選擇的項目"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "沒有可以復原的項目"
+
+msgid "ckct_ib_numbers_only"
+msgstr "該欄只可輸入數字"
+
+msgid "ckct_ib_select_single_item"
+msgstr "只可選擇一個項目"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr "開始日期要比結束日期早"
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "開始時間要比結束時間早"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "音效檔正被其他軟件使用"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "無法複製"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "無法剪下"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "無法刪除"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "無法貼上"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "無法復原"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "未知檔案類型"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "短片檔正被其他軟件使用"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML文件檔正被其他軟件使用"
+
+msgid "ckct_nc_delete_application"
+msgstr "刪除該應用軟件?\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "刪除書籤?\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "刪除證書?\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "刪除聯絡人?\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "刪除文件檔?\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "刪除項目?\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "刪除檔案?\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "刪除資料夾?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "刪除資料夾及其所有內容?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "刪除選定的資料夾和選定的檔案?"
+
+msgid "ckct_nc_delete_html"
+msgstr "刪除HTML文件案?\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "刪除圖片?\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "刪除捷徑?\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "刪除訊息?\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "刪除備忘?\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "刪除物件?\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "刪除選定的應用軟件?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "刪除所選的書籤?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "刪除所選的證書?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "刪除所選的文件檔?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "刪除所選的檔案?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "刪除所選的資料夾及其全部內容?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "刪除所選的HTML文件檔?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "刪除所選的圖片?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "刪除所選的捷徑?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "刪除所選的訊息?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "刪除選定的音效檔案?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "刪除選定的短片檔案?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "刪除選定的XML文件檔?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "刪除音效檔案?\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "刪除短片檔案?\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "刪除XML文件檔?\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "機背蓋被打開，\n儲存已中斷。"
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "無法開啟.\n檔案已損壞."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "確定"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "無法開啟.\n檔案格式不支援."
+
+msgid "ckct_nw_pasting"
+msgstr "貼上中"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "取消"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "刪除"
+
+msgid "ckdg_ib_application_exists"
+msgstr "該軟件名稱已存在"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "該軟件屬性為唯讀。"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "該書籤名稱已存在"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "該書籤屬性為唯讀"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "該證書名稱已存在"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "該證書屬性為唯讀"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "請先輸入登錄名稱"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "登錄名稱不正確"
+
+msgid "ckdg_ib_document_exists"
+msgstr "該文件檔名稱已存在"
+
+msgid "ckdg_ib_enter_name"
+msgstr "請先輸入名稱"
+
+msgid "ckdg_ib_file_exists"
+msgstr "該檔案名稱已存在"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "該檔案屬性為唯讀"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "該資料夾名稱已存在"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "該遊戲屬性為唯讀"
+
+msgid "ckdg_ib_html_exists"
+msgstr "該HTML文件檔名稱已存在"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "該HTML文件檔屬性為唯讀"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "字串不可包含 '%s'"
+
+msgid "ckdg_ib_image_exists"
+msgstr "該圖片名稱已存在"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "該圖片屬性為唯讀"
+
+msgid "ckdg_ib_link_exists"
+msgstr "該捷徑名稱已存在"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "該捷徑屬性為唯讀"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "已達到最大字符數"
+
+msgid "ckdg_ib_message_exists"
+msgstr "該訊息名稱已存在"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "該訊息屬性為唯讀"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "沒有可以被標記的"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "沒有可以被複製的"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "沒有可以被重新命名的"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "沒有可以被傳送的"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "沒有可以排序的"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "該音效檔案屬性為唯讀"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "該音效檔案名稱已存在"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "無法複製到自身資料夾"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "無法複製或移動到原來的資料夾內的子資料夾"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "無法標記該項目"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "無法移動到自身的資料夾"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "無法移動到目前位置"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "無法貼上在原來的位置"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "無法重新命名"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "無法取消該項目的標記"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "該短片檔案為唯讀"
+
+msgid "ckdg_ib_video_exists"
+msgstr "該短片檔案名稱已存在"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "該XML文件檔名稱已存在"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "該XML文件檔的屬性為唯讀"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "刪除密碼保護?"
+
+msgid "ckdg_pb_updating"
+msgstr "更新中"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "請輸入搜尋字串"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "請先輸入密碼"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "密碼不符"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "密碼錯誤"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "找不到相配結果"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "已複製"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "檔案的屬性為唯讀"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "沒有可複製的"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "沒有可剪下的"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "沒有可貼上的"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "沒有可復原的"
+
+msgid "file_ib_name_too_long"
+msgstr "檔案名稱太長"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "沒有可檢示的"
+
+msgid "sfil_ib_saved"
+msgstr "已儲存"
+
+msgid "sfil_ib_saving"
+msgstr "儲存中"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "無法複製或移動子資料夾到原來的資料夾內"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "無法剪下所選的資料夾"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "無法剪下所選的項目"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "無法刪除選定的資料夾"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "無法剪下所選的項目"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "無法移動所選的資料夾"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "無法移動所選的項目"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "找不到資料夾，\n無法開啟。"
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "無法重新命名所選的資料夾"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "無法傳送"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "無法傳送資料夾"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "關閉前儲存檔案?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "取消"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "否"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "是"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "找不到資料夾，\n無法繼續。"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "確定"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "機背蓋未蓋上，\n開啟被中斷"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "確定"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "連線受阻\n無法連線"
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "確定"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "找不到資料夾.\n裝置切換到另一個資料夾."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "確定"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "指定位置儲存記憶體不足"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "確定"
+
+msgid "sfil_ni_operation_failed"
+msgstr "操作失敗"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "確定"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "找不到檔案，\n無法開啟。"
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "確定"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "檔案太大，\n無法開啟。"
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "確定"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "找不到檔案，\n無法重新命名。"
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "確定"
