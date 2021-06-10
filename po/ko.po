@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2010-11-30 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cdkg_ib_all_items_marked"
+msgstr "모든 항목이 이미 표시 되었습니다"
+
+msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgstr "확인"
+
+msgid "ckct_bd_delete_application_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_application_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_bookmark_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_bookmark_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_certificate_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_certificate_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_contact_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_contact_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_document_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_document_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_entry_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_entry_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_file_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_file_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_folder_and_file_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_folder_and_file_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_folder_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_folder_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_folders_and_file_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_folders_and_file_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_folders_and_files_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_folders_and_files_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_game"
+msgstr "게임을 삭제하시겠습니까?"
+
+msgid "ckct_bd_delete_game_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_game_ok"
+msgstr "확인"
+
+msgid "ckct_bd_delete_html_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_html_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_image_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_image_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_link_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_link_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_message_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_message_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_note_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_note_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_object_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_object_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_presentation_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_presentation_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_applications_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_applications_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_bookmarks_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_bookmarks_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_certificates_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_certificates_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_documents_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_documents_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_files_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_files_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_folders_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_folders_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_html_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_html_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_images_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_images_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_links_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_links_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_messages_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_messages_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_presentations_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_presentations_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_sound_clips_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_sound_clips_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_video_clips_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_video_clips_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_workbooks_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_workbooks_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_selected_xml_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_selected_xml_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_sound_clip_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_sound_clip_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_video_clip_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_video_clip_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_workbook_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_workbook_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_delete_xml_cancel"
+msgstr "취소"
+
+msgid "ckct_bd_delete_xml_delete"
+msgstr "삭제"
+
+msgid "ckct_bd_pasting_cancel"
+msgstr "취소"
+
+msgid "ckct_ib_cannot_zoom_here"
+msgstr "줌 기능을 사용할 수 없습니다"
+
+msgid "ckct_ib_document_already_open"
+msgstr "문서가 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_enter_a_value"
+msgstr "값을 입력해주시기 바랍니다"
+
+msgid "ckct_ib_enter_some_text"
+msgstr "문자를 입력해주시기 바랍니다"
+
+msgid "ckct_ib_file_already_open"
+msgstr "파일이 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_html_document_already_open"
+msgstr "HTML 문서가 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_illegal_character"
+msgstr "잘못된 문자 입니다"
+
+msgid "ckct_ib_image_already_open"
+msgstr "이미지가 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_letters_only"
+msgstr "이 항목에는 문자만 입력할 수 있습니다"
+
+msgid "ckct_ib_mandatory_field"
+msgstr "값이 반드시 지정되어야 합니다"
+
+msgid "ckct_ib_max_zoom_level_reached"
+msgstr "더 이상 확대할 수 없습니다"
+
+msgid "ckct_ib_message_already_open"
+msgstr "메세지가 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_min_zoom_level_reached"
+msgstr "더 이상 축소할 수 없습니다"
+
+msgid "ckct_ib_nothing_to_delete"
+msgstr "삭제할 것이 없습니다"
+
+msgid "ckct_ib_nothing_to_move"
+msgstr "이동할 것이 없습니다"
+
+msgid "ckct_ib_nothing_to_open"
+msgstr "불러올 것이 없습니다"
+
+msgid "ckct_ib_nothing_to_select"
+msgstr "선택할 것이 없습니다"
+
+msgid "ckct_ib_nothing_to_undo"
+msgstr "되돌리기를 할 것이 없습니다"
+
+msgid "ckct_ib_numbers_only"
+msgstr "이 항목에는 숫자만 입력할 수 있습니다"
+
+msgid "ckct_ib_select_single_item"
+msgstr "1개의 항목만 선택해주시기 바랍니다"
+
+msgid "ckct_ib_set_start_before_end_date"
+msgstr " 시작일은 반드시 종료일보다 이른 날짜이여야 합니다 "
+
+msgid "ckct_ib_set_start_before_end_time"
+msgstr "시작시간은 반드시 종료시간보다 이른 시간이어야 합니다"
+
+msgid "ckct_ib_sound_clip_already_open"
+msgstr "오디오 클립이 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_unable_to_copy"
+msgstr "복사를 할 수 없습니다"
+
+msgid "ckct_ib_unable_to_cut"
+msgstr "잘라내기를 할 수 없습니다"
+
+msgid "ckct_ib_unable_to_delete"
+msgstr "삭제를 할 수 없습니다"
+
+msgid "ckct_ib_unable_to_paste_here"
+msgstr "여기에 붙여넣기를 할 수 없습니다"
+
+msgid "ckct_ib_unable_to_undo"
+msgstr "되돌리기를 할 수 없습니다"
+
+msgid "ckct_ib_unknown_file_type"
+msgstr "알 수 없는 파일 형식입니다"
+
+msgid "ckct_ib_video_clip_already_open"
+msgstr "비디오 클립이 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_ib_xml_document_already_open"
+msgstr "XML 문서가 이미 다른 어플리케이션에서 사용 중입니다"
+
+msgid "ckct_nc_delete_application"
+msgstr "어플리케이션을 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_bookmark"
+msgstr "즐겨찾기를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_certificate"
+msgstr "인증서를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_contact"
+msgstr "연락처를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_document"
+msgstr "문서를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_entry"
+msgstr "입력된 내용을 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_file"
+msgstr "파일을 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_folder"
+msgstr "폴더와 그 안의 내용물을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_folder_and_file"
+msgstr "폴더와 선택한 파일을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_folders_and_file"
+msgstr "선택한 폴더와 선택한 파일을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_html"
+msgstr "HTML 문서를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_image"
+msgstr "이미지를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_link"
+msgstr "바로가기를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_message"
+msgstr "메세지를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_note"
+msgstr "노트를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_object"
+msgstr "대상을 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_selected_applications"
+msgstr "선택한 어플리케이션들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_bookmarks"
+msgstr "선택한 즐겨찾기들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_certificates"
+msgstr "선택한 인증서들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_documents"
+msgstr "선택한 문서들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_files"
+msgstr "선택한 파일들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_folders"
+msgstr "선택한 폴더들과 그 안의 내용물들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_html"
+msgstr "선택한 HTML 문서들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_images"
+msgstr "선택한 이미지들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_links"
+msgstr "선택한 바로가기들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_messages"
+msgstr "선택한 메세지들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_sound_clips"
+msgstr "선택한 사운드 클립들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_video_clips"
+msgstr "선택한 비디오 클립들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_selected_xml"
+msgstr "선택한 XML 문서들을 삭제하시겠습니까?"
+
+msgid "ckct_nc_delete_sound_clip"
+msgstr "오디오 클립을 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_video_clip"
+msgstr "비디오 클립을 삭제하시겠습니까?\n%s"
+
+msgid "ckct_nc_delete_xml"
+msgstr "XML 문서를 삭제하시겠습니까?\n%s"
+
+msgid "ckct_ni_cannot_save_mmc_cover_open"
+msgstr "메모리 카드 커버가 열려 있어\n저장이 중단되었습니다."
+
+msgid "ckct_ni_unable_to_open_file_corrupted"
+msgstr "파일이 올바르지 않아\n불러올 수 없습니다."
+
+msgid "ckct_ni_unable_to_open_file_corrupted_ok"
+msgstr "확인"
+
+msgid "ckct_ni_unable_to_open_unsupported_file_format"
+msgstr "파일 형식이 지원되지 않아\n불러 올 수 없습니다."
+
+msgid "ckct_nw_pasting"
+msgstr "붙여넣기 중"
+
+msgid "ckdg_bd_dialog_c_passwd_cancel_button"
+msgstr "취소"
+
+msgid "ckdg_bd_dialog_c_passwd_remove_button"
+msgstr "제거"
+
+msgid "ckdg_ib_application_exists"
+msgstr "어플리케이션 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_application_read_only"
+msgstr "어플리케이션이 읽기 전용입니다"
+
+msgid "ckdg_ib_bookmark_exists"
+msgstr "즐겨찾기 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_bookmark_read_only"
+msgstr "즐겨찾기가 읽기 전용입니다"
+
+msgid "ckdg_ib_certificate_exists"
+msgstr "인증서 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_certificate_read_only"
+msgstr "인증서가 읽기 전용입니다"
+
+msgid "ckdg_ib_dialog_g_user_name_empty_usr"
+msgstr "사용자 이름을 입력해주시기 바랍니다"
+
+msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgstr "잘못된 사용자 이름입니다"
+
+msgid "ckdg_ib_document_exists"
+msgstr "문서 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_enter_name"
+msgstr "이름을 입력해주시기 바랍니다"
+
+msgid "ckdg_ib_file_exists"
+msgstr "파일 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_file_read_only"
+msgstr "파일이 읽기 전용입니다"
+
+msgid "ckdg_ib_folder_already_exists"
+msgstr "폴더 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_game_is_read_only"
+msgstr "게임이 읽기 전용입니다"
+
+msgid "ckdg_ib_html_exists"
+msgstr "HTML 문서 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_html_read_only"
+msgstr "HTML 문서가 읽기 전용입니다"
+
+msgid "ckdg_ib_illegal_characters_entered"
+msgstr "항목에 '%s' 을 포함할 수 없습니다"
+
+msgid "ckdg_ib_image_exists"
+msgstr "이미지 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_image_read_only"
+msgstr "이미지가 읽기 전용입니다"
+
+msgid "ckdg_ib_link_exists"
+msgstr "바로가기 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_link_read_only"
+msgstr "바로가기가 읽기 전용입니다"
+
+msgid "ckdg_ib_maximum_characters_reached"
+msgstr "더 이상 문자를 입력할 수 없습니다"
+
+msgid "ckdg_ib_message_exists"
+msgstr "메세지 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_message_read_only"
+msgstr "메세지가 읽기 전용입니다"
+
+msgid "ckdg_ib_no_marks_to_clear"
+msgstr "표시 해제를 할 것이 없습니다"
+
+msgid "ckdg_ib_nothing_duplicate"
+msgstr "복제를 할 것이 없습니다"
+
+msgid "ckdg_ib_nothing_to_rename"
+msgstr "이름 변경을 할 것이 없습니다"
+
+msgid "ckdg_ib_nothing_to_send"
+msgstr "전송을 할 것이 없습니다"
+
+msgid "ckdg_ib_nothing_to_sort"
+msgstr "분류를 할 것이 없습니다"
+
+msgid "ckdg_ib_sound_clip_read_only"
+msgstr "오디오 클립이 읽기 전용입니다"
+
+msgid "ckdg_ib_sound_exists"
+msgstr "오디오 클립 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_unable_to_copy_folder_into_itself"
+msgstr "대상 폴더안에 복사할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgstr "하부 폴더를 원래 폴더에 복사나 이동을 할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_mark"
+msgstr "이 항목에 대하여 표시를 할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_move_folder_into_itself"
+msgstr "대상 폴더안에 이동할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_move_to_current_location"
+msgstr "현재 위치로 이동할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_paste_to_same_location"
+msgstr "원래 위치에 붙여넣기를 할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_rename"
+msgstr "이름 변경을 할 수 없습니다"
+
+msgid "ckdg_ib_unable_to_unmark"
+msgstr "이 항목에 대하여 표시 해제를 할 수 없습니다"
+
+msgid "ckdg_ib_video_clip_read_only"
+msgstr "비디오 클립이 읽기 전용입니다"
+
+msgid "ckdg_ib_video_exists"
+msgstr "비디오 클립 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_xml_exists"
+msgstr "XML 문서 이름이 이미 존재합니다"
+
+msgid "ckdg_ib_xml_read_only"
+msgstr "XML 문서가 읽기 전용입니다"
+
+msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgstr "비밀번호 보호를 제거하시겠습니까?"
+
+msgid "ckdg_pb_updating"
+msgstr "업데이트 중"
+
+msgid "ecdg_ib_find_rep_enter_text"
+msgstr "찾으실 문구를 입력해주시기 바랍니다"
+
+msgid "ecdg_ib_password_is_empty"
+msgstr "비밀번호를 입력해주시기 바랍니다"
+
+msgid "ecdg_ib_passwords_do_not_match"
+msgstr "비밀번호가 일치하지 않습니다"
+
+msgid "ecdg_ib_set_password_incorrect"
+msgstr "잘못된 비밀번호입니다"
+
+msgid "ecoc_ib_edwin_cannot_find"
+msgstr "검색 결과 없음"
+
+msgid "ecoc_ib_edwin_copied"
+msgstr "복사됨"
+
+msgid "ecoc_ib_edwin_file_read_only"
+msgstr "문서가 읽기 전용입니다"
+
+msgid "ecoc_ib_edwin_nothing_to_copy"
+msgstr "복사를 할 것이 없습니다"
+
+msgid "ecoc_ib_edwin_nothing_to_cut"
+msgstr "잘라내기를 할 것이 없습니다"
+
+msgid "ecoc_ib_edwin_nothing_to_paste"
+msgstr "붙여넣기를 할 것이 없습니다"
+
+msgid "ecoc_ib_nothing_to_undo"
+msgstr "되돌리기를 할 것이 없습니다"
+
+msgid "file_ib_name_too_long"
+msgstr "이름이 너무 깁니다"
+
+msgid "sfil_ib_nothing_to_view"
+msgstr "보기를 할 것이 없습니다"
+
+msgid "sfil_ib_saved"
+msgstr "저장됨"
+
+msgid "sfil_ib_saving"
+msgstr "저장 중"
+
+msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgstr "하부 폴더를 원래 폴더에 복사나 이동을 할 수 없습니다"
+
+msgid "sfil_ib_unable_to_cut_selected_folder"
+msgstr "선택한 폴더를 잘라낼 수 없습니다"
+
+msgid "sfil_ib_unable_to_cut_selected_items"
+msgstr "선택한 항목을 잘라낼 수 없습니다"
+
+msgid "sfil_ib_unable_to_delete_selected_folder"
+msgstr "선택한 폴더를 삭제할 수 없습니다"
+
+msgid "sfil_ib_unable_to_delete_selected_items"
+msgstr "선택한 항목을 삭제할 수 없습니다"
+
+msgid "sfil_ib_unable_to_move_selected_folder"
+msgstr "선택한 폴더를 이동할 수 없습니다"
+
+msgid "sfil_ib_unable_to_move_selected_items"
+msgstr "선택한 항목을 이동할 수 없습니다"
+
+msgid "sfil_ib_unable_to_open_folder_not_found"
+msgstr "파일을 찾을 수 없어\n불러올 수 없습니다."
+
+msgid "sfil_ib_unable_to_rename_selected_folder"
+msgstr "선택한 폴더의 이름을 변경할 수 없습니다"
+
+msgid "sfil_ib_unable_to_send"
+msgstr "전송할 수 없습니다"
+
+msgid "sfil_ib_unable_to_send_folders"
+msgstr "폴더를 전송할 수 없습니다"
+
+msgid "sfil_nc_save_before_closing"
+msgstr "닫기 전에 파일을 저장하시겠습니까?"
+
+msgid "sfil_nc_save_before_closing_cancel"
+msgstr "취소"
+
+msgid "sfil_nc_save_before_closing_no"
+msgstr "아니요"
+
+msgid "sfil_nc_save_before_closing_yes"
+msgstr "예"
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted"
+msgstr "파일을 찾을 수 없어\n계속할 수 없습니다."
+
+msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgstr "확인"
+
+msgid "sfil_ni_cannot_open_mmc_cover_open"
+msgstr "메모리 카드 커버가 열려있어\n불러오기가 중단되었습니다."
+
+msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgstr "확인"
+
+msgid "sfil_ni_cannot_open_no_connection"
+msgstr "연결이 되지 않아\n작업이 중단되었습니다."
+
+msgid "sfil_ni_cannot_open_no_connection_ok"
+msgstr "확인"
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder"
+msgstr "장치가 다른 폴더로 변경되어\n폴더를 찾을 수 없습니다."
+
+msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgstr "확인"
+
+msgid "sfil_ni_not_enough_memory"
+msgstr "해당 위치의 빈 공간이 부족합니다"
+
+msgid "sfil_ni_not_enough_memory_ok"
+msgstr "확인"
+
+msgid "sfil_ni_operation_failed"
+msgstr "작입이 실패하였습니다"
+
+msgid "sfil_ni_operation_failed_ok"
+msgstr "확인"
+
+msgid "sfil_ni_unable_to_open_file_not_found"
+msgstr "파일을 찾을 수 없어\n불러 올 수 없습니다."
+
+msgid "sfil_ni_unable_to_open_file_not_found_ok"
+msgstr "확인"
+
+msgid "sfil_ni_unable_to_open_too_large"
+msgstr "파일이 너무 커서\n불러 올 수 없습니다."
+
+msgid "sfil_ni_unable_to_open_too_large_ok"
+msgstr "확인"
+
+msgid "sfil_ni_unable_to_rename_file_not_found"
+msgstr "파일을 찾을 수 없어서\n이름 변경을 할 수 없습니다."
+
+msgid "sfil_ni_unable_to_rename_file_not_found_ok"
+msgstr "확인"
