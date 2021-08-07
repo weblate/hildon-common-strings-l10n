@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
-"PO-Revision-Date: 2021-08-07 00:15+0000\n"
+"PO-Revision-Date: 2021-08-07 14:16+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-common-strings-l10n/ca/>\n"
@@ -27,49 +27,49 @@ msgid "ckct_bd_delete_application_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_application_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_bookmark_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_bookmark_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_certificate_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_certificate_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_contact_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_contact_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_document_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_document_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_entry_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_entry_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_file_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_file_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_folder_and_file_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_folder_and_file_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_folder_cancel"
 msgstr "Cancel·la"
@@ -81,178 +81,178 @@ msgid "ckct_bd_delete_folders_and_file_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_folders_and_file_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_folders_and_files_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_folders_and_files_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_game"
-msgstr "S'esborra el joc?"
+msgstr "Se suprimeix el joc?"
 
 msgid "ckct_bd_delete_game_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_game_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "ckct_bd_delete_html_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_html_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_image_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_image_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_link_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_link_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_message_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_message_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_note_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_note_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_object_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_object_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_presentation_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_presentation_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_applications_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_applications_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_bookmarks_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_bookmarks_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_certificates_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_certificates_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_documents_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_documents_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_files_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_files_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_folders_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_folders_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_html_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_html_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_images_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_images_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_links_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_links_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_messages_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_messages_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_presentations_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_presentations_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_sound_clips_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_sound_clips_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_video_clips_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_video_clips_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_workbooks_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_workbooks_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_selected_xml_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_selected_xml_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_sound_clip_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_sound_clip_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_video_clip_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_video_clip_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_workbook_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_workbook_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_delete_xml_cancel"
 msgstr "Cancel·la"
 
 msgid "ckct_bd_delete_xml_delete"
-msgstr "Esborra"
+msgstr "Suprimeix"
 
 msgid "ckct_bd_pasting_cancel"
 msgstr "Cancel·la"
@@ -453,7 +453,7 @@ msgid "ckct_ni_unable_to_open_file_corrupted"
 msgstr "No es pot obrir.\nFitxer malmès."
 
 msgid "ckct_ni_unable_to_open_file_corrupted_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "ckct_ni_unable_to_open_unsupported_file_format"
 msgstr "No es pot obrir.\nFormat de fitxer no suportat."
@@ -465,7 +465,7 @@ msgid "ckdg_bd_dialog_c_passwd_cancel_button"
 msgstr "Cancel·la"
 
 msgid "ckdg_bd_dialog_c_passwd_remove_button"
-msgstr "Esborra"
+msgstr "Elimina"
 
 msgid "ckdg_ib_application_exists"
 msgstr "Nom de l'aplicació en ús"
@@ -698,52 +698,52 @@ msgid "sfil_ni_cannot_continue_target_folder_deleted"
 msgstr "No es pot continuar.\nDirectori no trobat."
 
 msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_cannot_open_mmc_cover_open"
 msgstr "Operació interrompuda.\nRanura targeta de memòria oberta."
 
 msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_cannot_open_no_connection"
 msgstr "Operació interrompuda.\nSense connexió."
 
 msgid "sfil_ni_cannot_open_no_connection_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_folder_not_found_switched_to_another_folder"
 msgstr "Directori no trobat.\nEs canvia a un altre directori."
 
 msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_not_enough_memory"
 msgstr "No hi ha prou espai a la destinació"
 
 msgid "sfil_ni_not_enough_memory_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_operation_failed"
 msgstr "Operació fallada"
 
 msgid "sfil_ni_operation_failed_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_unable_to_open_file_not_found"
 msgstr "No es pot obrir.\nFitxer no trobat."
 
 msgid "sfil_ni_unable_to_open_file_not_found_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_unable_to_open_too_large"
 msgstr "No es pot obrir.\nFitxer massa gran."
 
 msgid "sfil_ni_unable_to_open_too_large_ok"
-msgstr "D'acord"
+msgstr "D’acord"
 
 msgid "sfil_ni_unable_to_rename_file_not_found"
 msgstr "No s'ha pogut reanomenar.\nFitxer no trobat."
 
 msgid "sfil_ni_unable_to_rename_file_not_found_ok"
-msgstr "D'acord"
+msgstr "D’acord"
