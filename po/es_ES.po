@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: hildon-common-strings 20081020115109\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
-"PO-Revision-Date: 2008.10.20 11:51+0300\n"
-"Last-Translator:\n"
-"Language-Team: es_ES\n"
+"PO-Revision-Date: 2021-08-07 14:16+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-common-strings-l10n/es/>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 msgid "cdkg_ib_all_items_marked"
 msgstr "Ya marcados todos los elementos"
@@ -21,70 +24,70 @@ msgid "ckct_bd_delete_application_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_application_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_bookmark_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_bookmark_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_certificate_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_certificate_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_contact_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_contact_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_document_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_document_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_entry_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_entry_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_file_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_file_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_folder_and_file_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_folder_and_file_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_folder_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_folder_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_folders_and_file_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_folders_and_file_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_folders_and_files_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_folders_and_files_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_game"
-msgstr "¿Suprimir juego?"
+msgstr "¿Eliminar juego?"
 
 msgid "ckct_bd_delete_game_cancel"
 msgstr "Cancelar"
@@ -96,157 +99,157 @@ msgid "ckct_bd_delete_html_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_html_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_image_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_image_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_link_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_link_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_message_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_message_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_note_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_note_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_object_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_object_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_presentation_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_presentation_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_applications_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_applications_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_bookmarks_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_bookmarks_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_certificates_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_certificates_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_documents_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_documents_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_files_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_files_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_folders_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_folders_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_html_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_html_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_images_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_images_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_links_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_links_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_messages_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_messages_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_presentations_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_presentations_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_sound_clips_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_sound_clips_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_video_clips_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_video_clips_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_workbooks_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_workbooks_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_selected_xml_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_selected_xml_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_sound_clip_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_sound_clip_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_video_clip_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_video_clip_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_workbook_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_workbook_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_delete_xml_cancel"
 msgstr "Cancelar"
 
 msgid "ckct_bd_delete_xml_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "ckct_bd_pasting_cancel"
 msgstr "Cancelar"
@@ -276,7 +279,7 @@ msgid "ckct_ib_image_already_open"
 msgstr "Imagen ya en uso por otra aplicación"
 
 msgid "ckct_ib_letters_only"
-msgstr "Sólo se permiten letras en este campo"
+msgstr "Solo se permiten letras en este campo"
 
 msgid "ckct_ib_mandatory_field"
 msgstr "Se debe definir el valor"
@@ -306,10 +309,10 @@ msgid "ckct_ib_nothing_to_undo"
 msgstr "Nada que deshacer"
 
 msgid "ckct_ib_numbers_only"
-msgstr "Sólo se permiten números en este campo"
+msgstr "Solo se permiten números en este campo"
 
 msgid "ckct_ib_select_single_item"
-msgstr "Seleccione sólo un elemento"
+msgstr "Seleccione solo un elemento"
 
 msgid "ckct_ib_set_start_before_end_date"
 msgstr " La fecha de inicio debe ser anterior a la fecha de finalización "
@@ -346,130 +349,130 @@ msgstr "Documento XML ya en uso por otra aplicación"
 
 msgid "ckct_nc_delete_application"
 msgstr ""
-"¿Suprimir aplicación?\n"
+"¿Eliminar aplicación?\n"
 "%s"
 
 msgid "ckct_nc_delete_bookmark"
 msgstr ""
-"¿Suprimir favorito?\n"
+"¿Eliminar favorito?\n"
 "%s"
 
 msgid "ckct_nc_delete_certificate"
 msgstr ""
-"¿Suprimir certificado?\n"
+"¿Eliminar certificado?\n"
 "%s"
 
 msgid "ckct_nc_delete_contact"
 msgstr ""
-"¿Suprimir contacto?\n"
+"¿Eliminar contacto?\n"
 "%s"
 
 msgid "ckct_nc_delete_document"
 msgstr ""
-"¿Suprimir documento?\n"
+"¿Eliminar documento?\n"
 "%s"
 
 msgid "ckct_nc_delete_entry"
 msgstr ""
-"¿Suprimir entrada?\n"
+"¿Eliminar entrada?\n"
 "%s"
 
 msgid "ckct_nc_delete_file"
 msgstr ""
-"¿Suprimir archivo?\n"
+"¿Eliminar archivo?\n"
 "%s"
 
 msgid "ckct_nc_delete_folder"
-msgstr "¿Suprimir carpeta y todo su contenido?"
+msgstr "¿Eliminar carpeta y todo su contenido?"
 
 msgid "ckct_nc_delete_folder_and_file"
-msgstr "¿Suprimir carpeta y archivo seleccionados?"
+msgstr "¿Eliminar carpeta y archivo seleccionados?"
 
 msgid "ckct_nc_delete_folders_and_file"
-msgstr "¿Suprimir carpetas y archivo seleccionados?"
+msgstr "¿Eliminar carpetas y archivo seleccionados?"
 
 msgid "ckct_nc_delete_html"
 msgstr ""
-"¿Suprimir documento HTML?\n"
+"¿Eliminar documento HTML?\n"
 "%s"
 
 msgid "ckct_nc_delete_image"
 msgstr ""
-"¿Suprimir imagen?\n"
+"¿Eliminar imagen?\n"
 "%s"
 
 msgid "ckct_nc_delete_link"
 msgstr ""
-"¿Suprimir acceso directo?\n"
+"¿Eliminar acceso directo?\n"
 "%s"
 
 msgid "ckct_nc_delete_message"
 msgstr ""
-"¿Suprimir mensaje?\n"
+"¿Eliminar mensaje?\n"
 "%s"
 
 msgid "ckct_nc_delete_note"
 msgstr ""
-"¿Suprimir nota?\n"
+"¿Eliminar nota?\n"
 "%s"
 
 msgid "ckct_nc_delete_object"
 msgstr ""
-"¿Suprimir objeto?\n"
+"¿Eliminar objeto?\n"
 "%s"
 
 msgid "ckct_nc_delete_selected_applications"
-msgstr "¿Suprimir aplicaciones seleccionadas?"
+msgstr "¿Eliminar aplicaciones seleccionadas?"
 
 msgid "ckct_nc_delete_selected_bookmarks"
-msgstr "¿Suprimir favoritos seleccionados?"
+msgstr "¿Eliminar favoritos seleccionados?"
 
 msgid "ckct_nc_delete_selected_certificates"
-msgstr "¿Suprimir certificados seleccionados?"
+msgstr "¿Eliminar certificados seleccionados?"
 
 msgid "ckct_nc_delete_selected_documents"
-msgstr "¿Suprimir documentos seleccionados?"
+msgstr "¿Eliminar documentos seleccionados?"
 
 msgid "ckct_nc_delete_selected_files"
-msgstr "¿Suprimir archivos seleccionados?"
+msgstr "¿Eliminar archivos seleccionados?"
 
 msgid "ckct_nc_delete_selected_folders"
-msgstr "¿Suprimir carpetas seleccionadas y todo su contenido?"
+msgstr "¿Eliminar carpetas seleccionadas y todo su contenido?"
 
 msgid "ckct_nc_delete_selected_html"
-msgstr "¿Suprimir documentos HTML seleccionados?"
+msgstr "¿Eliminar documentos HTML seleccionados?"
 
 msgid "ckct_nc_delete_selected_images"
-msgstr "¿Suprimir imágenes seleccionadas?"
+msgstr "¿Eliminar imágenes seleccionadas?"
 
 msgid "ckct_nc_delete_selected_links"
-msgstr "¿Suprimir accesos directos seleccionados?"
+msgstr "¿Eliminar accesos directos seleccionados?"
 
 msgid "ckct_nc_delete_selected_messages"
-msgstr "¿Suprimir mensajes seleccionados?"
+msgstr "¿Eliminar mensajes seleccionados?"
 
 msgid "ckct_nc_delete_selected_sound_clips"
-msgstr "¿Suprimir clips de sonido seleccionados?"
+msgstr "¿Eliminar clips de sonido seleccionados?"
 
 msgid "ckct_nc_delete_selected_video_clips"
-msgstr "¿Suprimir clips de vídeo seleccionados?"
+msgstr "¿Eliminar clips de vídeo seleccionados?"
 
 msgid "ckct_nc_delete_selected_xml"
-msgstr "¿Suprimir documentos XML seleccionados?"
+msgstr "¿Eliminar documentos XML seleccionados?"
 
 msgid "ckct_nc_delete_sound_clip"
 msgstr ""
-"¿Suprimir clip de audio?\n"
+"¿Eliminar clip de audio?\n"
 "%s"
 
 msgid "ckct_nc_delete_video_clip"
 msgstr ""
-"¿Suprimir clip de vídeo?\n"
+"¿Eliminar clip de vídeo?\n"
 "%s"
 
 msgid "ckct_nc_delete_xml"
 msgstr ""
-"¿Suprimir documento XML?\n"
+"¿Eliminar documento XML?\n"
 "%s"
 
 msgid "ckct_ni_cannot_save_mmc_cover_open"
@@ -497,25 +500,25 @@ msgid "ckdg_bd_dialog_c_passwd_cancel_button"
 msgstr "Cancelar"
 
 msgid "ckdg_bd_dialog_c_passwd_remove_button"
-msgstr "Eliminar"
+msgstr "Quitar"
 
 msgid "ckdg_ib_application_exists"
 msgstr "Nombre de aplicación ya en uso"
 
 msgid "ckdg_ib_application_read_only"
-msgstr "Aplicación de sólo lectura"
+msgstr "Aplicación de solo lectura"
 
 msgid "ckdg_ib_bookmark_exists"
 msgstr "Nombre de favorito ya en uso"
 
 msgid "ckdg_ib_bookmark_read_only"
-msgstr "Favorito de sólo lectura"
+msgstr "Marcador de solo lectura"
 
 msgid "ckdg_ib_certificate_exists"
 msgstr "Nombre de certificado ya en uso"
 
 msgid "ckdg_ib_certificate_read_only"
-msgstr "Certificado de sólo lectura"
+msgstr "Certificado de solo lectura"
 
 msgid "ckdg_ib_dialog_g_user_name_empty_usr"
 msgstr "Introduzca antes nombre de usuario"
@@ -533,34 +536,34 @@ msgid "ckdg_ib_file_exists"
 msgstr "Nombre de archivo ya en uso"
 
 msgid "ckdg_ib_file_read_only"
-msgstr "Archivo de sólo lectura"
+msgstr "Archivo de solo lectura"
 
 msgid "ckdg_ib_folder_already_exists"
 msgstr "Nombre de carpeta ya en uso"
 
 msgid "ckdg_ib_game_is_read_only"
-msgstr "Juego de sólo lectura"
+msgstr "Juego de solo lectura"
 
 msgid "ckdg_ib_html_exists"
 msgstr "Nombre de documento HTML ya en uso"
 
 msgid "ckdg_ib_html_read_only"
-msgstr "Documento HTML de sólo lectura"
+msgstr "Documento HTML de solo lectura"
 
 msgid "ckdg_ib_illegal_characters_entered"
-msgstr "El campo no puede contener '%s'"
+msgstr "El campo no puede contener «%s»"
 
 msgid "ckdg_ib_image_exists"
 msgstr "Nombre de imagen ya en uso"
 
 msgid "ckdg_ib_image_read_only"
-msgstr "Imagen de sólo lectura"
+msgstr "Imagen de solo lectura"
 
 msgid "ckdg_ib_link_exists"
 msgstr "Nombre de acceso directo ya en uso"
 
 msgid "ckdg_ib_link_read_only"
-msgstr "Acceso directo de sólo lectura"
+msgstr "Atajo de solo lectura"
 
 msgid "ckdg_ib_maximum_characters_reached"
 msgstr "Número máximo de caracteres alcanzado"
@@ -569,7 +572,7 @@ msgid "ckdg_ib_message_exists"
 msgstr "Nombre de mensaje ya en uso"
 
 msgid "ckdg_ib_message_read_only"
-msgstr "Mensaje de sólo lectura"
+msgstr "Mensaje de solo lectura"
 
 msgid "ckdg_ib_no_marks_to_clear"
 msgstr "Sin marcas que anular"
@@ -587,7 +590,7 @@ msgid "ckdg_ib_nothing_to_sort"
 msgstr "Nada que ordenar"
 
 msgid "ckdg_ib_sound_clip_read_only"
-msgstr "Clip de audio de sólo lectura"
+msgstr "Clip de audio de solo lectura"
 
 msgid "ckdg_ib_sound_exists"
 msgstr "Nombre de clip de audio ya en uso"
@@ -617,7 +620,7 @@ msgid "ckdg_ib_unable_to_unmark"
 msgstr "Imposible anular marca de este elemento"
 
 msgid "ckdg_ib_video_clip_read_only"
-msgstr "Clip de vídeo de sólo lectura"
+msgstr "Clip de vídeo de solo lectura"
 
 msgid "ckdg_ib_video_exists"
 msgstr "Nombre de clip de vídeo ya en uso"
@@ -626,7 +629,7 @@ msgid "ckdg_ib_xml_exists"
 msgstr "Nombre de documento XML ya en uso"
 
 msgid "ckdg_ib_xml_read_only"
-msgstr "Documento XML de sólo lectura"
+msgstr "Documento XML de solo lectura"
 
 msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
 msgstr "¿Eliminar protección con contraseña?"
@@ -653,7 +656,7 @@ msgid "ecoc_ib_edwin_copied"
 msgstr "Copiado"
 
 msgid "ecoc_ib_edwin_file_read_only"
-msgstr "Documento de sólo lectura"
+msgstr "Documento de solo lectura"
 
 msgid "ecoc_ib_edwin_nothing_to_copy"
 msgstr "Nada que copiar"
