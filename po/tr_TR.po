@@ -33,8 +33,8 @@ msgstr ""
 "Project-Id-Version: hildon-common-strings 20081020115109\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
-"PO-Revision-Date: 2021-05-26 13:33+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-common-strings-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #  Displayed if the user tries to accept a dialog while a field that requires to be filled is missing. The focus is moved to the empty field.
 msgid "ckct_ib_enter_a_value"
@@ -56,7 +56,7 @@ msgstr "Önce metni girmelisiniz"
 
 #  Text in 'Maximum characters reached' information banner - various dialogs
 msgid "ckdg_ib_maximum_characters_reached"
-msgstr "Maksimum karakter sayısına ulaşıldı"
+msgstr "En fazla karakter sayısına ulaşıldı"
 
 #  Displayed if the user tries to enter characters to a field that accepts only numbers. Used only in cases where the field functionality is not evident, e.g. a password field. Focus is returned to the field and characters in the field are highlighted.
 msgid "ckct_ib_numbers_only"
@@ -380,7 +380,7 @@ msgstr "İşareti kaldırılacak bir şey yok"
 
 # Displayed if the user selects the Mark command when all items in the view are already marked.
 msgid "cdkg_ib_all_items_marked"
-msgstr "Tüm öğeler zaten işaretli"
+msgstr "Tüm ögeler zaten işaretli"
 
 # This information banner is shown if the user tries to mark an item that is unmarkable.
 msgid "ckdg_ib_unable_to_mark"
@@ -388,7 +388,7 @@ msgstr "İşaretlenemiyor"
 
 # This information banner is shown if the user tries to unmark an item that can not be unmarked.
 msgid "ckdg_ib_unable_to_unmark"
-msgstr "Bu öğenin işareti kaldırılamıyor"
+msgstr "Bu ögenin işareti kaldırılamıyor"
 
 # This information banner is shown if the user tries to move a folder into itself.
 msgid "ckdg_ib_unable_to_move_folder_into_itself"
@@ -400,7 +400,7 @@ msgstr "Gönderilecek bir şey yok"
 
 # Displayed when the user tries to cut items that can not be cut.
 msgid "sfil_ib_unable_to_cut_selected_items"
-msgstr "Seçilen öğeler kesilemiyor"
+msgstr "Seçilen ögeler kesilemiyor"
 
 # Displayed when the user tries to cut a folder that can not be cut.
 msgid "sfil_ib_unable_to_cut_selected_folder"
@@ -408,7 +408,7 @@ msgstr "Seçilen klasör kesilemiyor"
 
 # Displayed when the user tries to delete items that can not be deleted.
 msgid "sfil_ib_unable_to_delete_selected_items"
-msgstr "Seçilen öğeler silinemiyor"
+msgstr "Seçilen ögeler silinemiyor"
 
 # Displayed when the user tries to delete a folder that can not be deleted.
 msgid "sfil_ib_unable_to_delete_selected_folder"
@@ -416,7 +416,7 @@ msgstr "Seçilen klasör silinemiyor"
 
 # Displayed when the user tries to move items that can not be moved.
 msgid "sfil_ib_unable_to_move_selected_items"
-msgstr "Seçilen öğeler taşınamıyor"
+msgstr "Seçilen ögeler taşınamıyor"
 
 # Displayed when the user tries to move a folder that can not be moved.
 msgid "sfil_ib_unable_to_move_selected_folder"
@@ -1041,7 +1041,7 @@ msgstr "İptal"
 msgid "sfil_ni_folder_not_found_switched_to_another_folder"
 msgstr ""
 "Klasör bulunamadı.\n"
-"Cihaz başka bir klasöre geçiyor."
+"Aygıt başka bir klasöre geçiyor."
 
 # Confirmation button for An Information note presented in Save <Object> Dialog when a target folder does not exist in the specified location.
 msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
