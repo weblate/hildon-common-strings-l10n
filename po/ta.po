@@ -3,740 +3,794 @@ msgstr ""
 "Project-Id-Version: hildon-common-strings 20081020115109\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
-"PO-Revision-Date: 2008.10.20 11:51+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-18 14:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-common-strings-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "cdkg_ib_all_items_marked"
-msgstr ""
+msgstr "ஏற்கனவே குறிக்கப்பட்ட அனைத்து பொருட்களும்"
 
 msgid "ckct_bd_cannot_save_mmc_cover_open_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "ckct_bd_delete_application_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_application_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_bookmark_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_bookmark_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_certificate_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_certificate_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_contact_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_contact_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_document_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_document_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_entry_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_entry_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_file_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_file_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_folder_and_file_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_folder_and_file_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_folder_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_folder_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_folders_and_file_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_folders_and_file_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_folders_and_files_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_folders_and_files_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_game"
-msgstr ""
+msgstr "விளையாட்டை நீக்கவா?"
 
 msgid "ckct_bd_delete_game_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_game_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "ckct_bd_delete_html_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_html_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_image_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_image_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_link_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_link_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_message_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_message_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_note_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_note_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_object_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_object_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_presentation_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_presentation_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_applications_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_applications_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_bookmarks_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_bookmarks_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_certificates_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_certificates_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_documents_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_documents_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_files_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_files_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_folders_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_folders_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_html_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_html_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_images_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_images_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_links_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_links_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_messages_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_messages_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_presentations_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_presentations_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_sound_clips_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_sound_clips_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_video_clips_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_video_clips_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_workbooks_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_workbooks_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_selected_xml_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_selected_xml_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_sound_clip_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_sound_clip_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_video_clip_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_video_clip_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_workbook_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_workbook_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_delete_xml_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_bd_delete_xml_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "ckct_bd_pasting_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckct_ib_cannot_zoom_here"
-msgstr ""
+msgstr "பெரிதாக்க முடியவில்லை"
 
 msgid "ckct_ib_document_already_open"
-msgstr ""
+msgstr "மற்றொரு பயன்பாட்டின் மூலம் ஏற்கனவே பயன்பாட்டில் உள்ள ஆவணம்"
 
 msgid "ckct_ib_enter_a_value"
-msgstr ""
+msgstr "முதலில் மதிப்பை உள்ளிடவும்"
 
 msgid "ckct_ib_enter_some_text"
-msgstr ""
+msgstr "முதலில் உரையை உள்ளிடவும்"
 
 msgid "ckct_ib_file_already_open"
-msgstr ""
+msgstr "மற்றொரு பயன்பாட்டின் மூலம் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckct_ib_html_document_already_open"
-msgstr ""
+msgstr "உஉகுமொ ஆவணம் ஏற்கனவே மற்றொரு பயன்பாட்டின் மூலம் பயன்பாட்டில் உள்ளது"
 
 msgid "ckct_ib_illegal_character"
-msgstr ""
+msgstr "தவறான எழுத்து"
 
 msgid "ckct_ib_image_already_open"
-msgstr ""
+msgstr "படம் ஏற்கனவே மற்றொரு பயன்பாட்டின் மூலம் பயன்பாட்டில் உள்ளது"
 
 msgid "ckct_ib_letters_only"
-msgstr ""
+msgstr "இந்த துறையில் அனுமதிக்கப்பட்ட கடிதங்கள் மட்டுமே"
 
 msgid "ckct_ib_mandatory_field"
-msgstr ""
+msgstr "மதிப்பு வரையறுக்கப்பட வேண்டும்"
 
 msgid "ckct_ib_max_zoom_level_reached"
-msgstr ""
+msgstr "அதிகபட்ச சூம் நிலை அடைந்தது"
 
 msgid "ckct_ib_message_already_open"
-msgstr ""
+msgstr "மற்றொரு பயன்பாட்டின் மூலம் ஏற்கனவே பயன்பாட்டில் உள்ள செய்தி"
 
 msgid "ckct_ib_min_zoom_level_reached"
-msgstr ""
+msgstr "குறைந்தபட்ச சூம் நிலை அடைந்தது"
 
 msgid "ckct_ib_nothing_to_delete"
-msgstr ""
+msgstr "நீக்க எதுவும் இல்லை"
 
 msgid "ckct_ib_nothing_to_move"
-msgstr ""
+msgstr "நகர்த்த எதுவும் இல்லை"
 
 msgid "ckct_ib_nothing_to_open"
-msgstr ""
+msgstr "திறக்க எதுவும் இல்லை"
 
 msgid "ckct_ib_nothing_to_select"
-msgstr ""
+msgstr "தேர்ந்தெடுக்க எதுவும் இல்லை"
 
 msgid "ckct_ib_nothing_to_undo"
-msgstr ""
+msgstr "செயல்தவிர்க்க எதுவும் இல்லை"
 
 msgid "ckct_ib_numbers_only"
-msgstr ""
+msgstr "இந்த துறையில் எண்கள் மட்டுமே அனுமதிக்கப்படுகின்றன"
 
 msgid "ckct_ib_select_single_item"
-msgstr ""
+msgstr "1 உருப்படியை மட்டும் தேர்ந்தெடுக்கவும்"
 
 msgid "ckct_ib_set_start_before_end_date"
-msgstr ""
+msgstr " தொடக்க தேதி இறுதி தேதியை விட முந்தையதாக இருக்க வேண்டும் "
 
 msgid "ckct_ib_set_start_before_end_time"
-msgstr ""
+msgstr "தொடக்க நேரம் இறுதி நேரத்தை விட முந்தையதாக இருக்க வேண்டும்"
 
 msgid "ckct_ib_sound_clip_already_open"
-msgstr ""
+msgstr "ஆடியோ கிளிப் ஏற்கனவே மற்றொரு பயன்பாட்டின் மூலம் பயன்பாட்டில் உள்ளது"
 
 msgid "ckct_ib_unable_to_copy"
-msgstr ""
+msgstr "நகலெடுக்க முடியவில்லை"
 
 msgid "ckct_ib_unable_to_cut"
-msgstr ""
+msgstr "வெட்ட முடியவில்லை"
 
 msgid "ckct_ib_unable_to_delete"
-msgstr ""
+msgstr "நீக்க முடியவில்லை"
 
 msgid "ckct_ib_unable_to_paste_here"
-msgstr ""
+msgstr "இங்கே ஒட்ட முடியவில்லை"
 
 msgid "ckct_ib_unable_to_undo"
-msgstr ""
+msgstr "செயல்தவிர்க்க முடியவில்லை"
 
 msgid "ckct_ib_unknown_file_type"
-msgstr ""
+msgstr "தெரியாத கோப்பு வகை"
 
 msgid "ckct_ib_video_clip_already_open"
-msgstr ""
+msgstr "வீடியோ கிளிப் ஏற்கனவே மற்றொரு பயன்பாட்டின் மூலம் பயன்பாட்டில் உள்ளது"
 
 msgid "ckct_ib_xml_document_already_open"
 msgstr ""
+"எக்ச்எம்எல் ஆவணம் ஏற்கனவே மற்றொரு பயன்பாட்டின் மூலம் பயன்பாட்டில் உள்ளது"
 
 msgid "ckct_nc_delete_application"
 msgstr ""
+"விண்ணப்பத்தை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_bookmark"
 msgstr ""
+"புத்தகக்குறியை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_certificate"
 msgstr ""
+"சான்றிதழை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_contact"
-msgstr ""
+msgstr "தொடர்புகளை நீக்கு"
 
 msgid "ckct_nc_delete_document"
 msgstr ""
+"ஆவணத்தை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_entry"
 msgstr ""
+"நுழைவை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_file"
 msgstr ""
+"கோப்பை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_folder"
-msgstr ""
+msgstr "கோப்புறை மற்றும் அதன் அனைத்து உள்ளடக்கங்களையும் நீக்கவா?"
 
 msgid "ckct_nc_delete_folder_and_file"
-msgstr ""
+msgstr "கோப்புறை மற்றும் தேர்ந்தெடுக்கப்பட்ட கோப்பை நீக்கவா?"
 
 msgid "ckct_nc_delete_folders_and_file"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட கோப்புறைகள் மற்றும் தேர்ந்தெடுக்கப்பட்ட கோப்பை நீக்கவா?"
 
 msgid "ckct_nc_delete_html"
 msgstr ""
+"உஉகுமொ ஆவணத்தை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_image"
 msgstr ""
+"படத்தை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_link"
 msgstr ""
+"குறுக்குவழியை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_message"
 msgstr ""
+"செய்தியை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_note"
 msgstr ""
+"குறிப்பை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_object"
 msgstr ""
+"பொருளை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_nc_delete_selected_applications"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட பயன்பாடுகளை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_bookmarks"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட புக்மார்க்குகளை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_certificates"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட சான்றிதழ்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_documents"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட ஆவணங்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_files"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_folders"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறைகளையும் அவற்றின் உள்ளடக்கங்களையும் நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_html"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட உஉகுமொ ஆவணங்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_images"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட படங்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_links"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட குறுக்குவழிகளை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_messages"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட செய்திகளை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_sound_clips"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட ஒலி கிளிப்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_video_clips"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட வீடியோ கிளிப்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_selected_xml"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட எக்ச்எம்எல் ஆவணங்களை நீக்கவா?"
 
 msgid "ckct_nc_delete_sound_clip"
-msgstr ""
+msgstr "ஆடியோ கிளிப்களை நீக்கு"
 
 msgid "ckct_nc_delete_video_clip"
-msgstr ""
+msgstr "வீடியோ கிளிப்களை நீக்கு"
 
 msgid "ckct_nc_delete_xml"
 msgstr ""
+"எக்ச்எம்எல் ஆவணத்தை நீக்கவா?\n"
+" %s"
 
 msgid "ckct_ni_cannot_save_mmc_cover_open"
 msgstr ""
+"சேமிப்பு குறுக்கீடு.\n"
+" நினைவக அட்டை கவர் திறந்திருக்கும்."
 
 msgid "ckct_ni_unable_to_open_file_corrupted"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" கோப்பு சிதைந்தது."
 
 msgid "ckct_ni_unable_to_open_file_corrupted_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "ckct_ni_unable_to_open_unsupported_file_format"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" கோப்பு வடிவம் ஆதரிக்கப்படவில்லை."
 
 msgid "ckct_nw_pasting"
-msgstr ""
+msgstr "ஒட்டுதல்"
 
 msgid "ckdg_bd_dialog_c_passwd_cancel_button"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "ckdg_bd_dialog_c_passwd_remove_button"
-msgstr ""
+msgstr "அகற்று"
 
 msgid "ckdg_ib_application_exists"
-msgstr ""
+msgstr "பயன்பாட்டு பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_application_read_only"
-msgstr ""
+msgstr "பயன்பாடு படிக்க மட்டுமே"
 
 msgid "ckdg_ib_bookmark_exists"
-msgstr ""
+msgstr "ஏற்கனவே பயன்பாட்டில் உள்ள புக்மார்க்கு பெயர்"
 
 msgid "ckdg_ib_bookmark_read_only"
-msgstr ""
+msgstr "புத்தகக்குறி படிக்க மட்டுமே"
 
 msgid "ckdg_ib_certificate_exists"
-msgstr ""
+msgstr "சான்றிதழ் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_certificate_read_only"
-msgstr ""
+msgstr "சான்றிதழ் படிக்க மட்டுமே"
 
 msgid "ckdg_ib_dialog_g_user_name_empty_usr"
-msgstr ""
+msgstr "முதலில் பயனர் பெயரை உள்ளிடவும்"
 
 msgid "ckdg_ib_dialog_g_user_name_incorrect_usr"
-msgstr ""
+msgstr "தவறான பயனர் பெயர்"
 
 msgid "ckdg_ib_document_exists"
-msgstr ""
+msgstr "ஆவண பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_enter_name"
-msgstr ""
+msgstr "முதலில் பெயரை உள்ளிடவும்"
 
 msgid "ckdg_ib_file_exists"
-msgstr ""
+msgstr "கோப்பு பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_file_read_only"
-msgstr ""
+msgstr "கோப்பு படிக்க மட்டுமே"
 
 msgid "ckdg_ib_folder_already_exists"
-msgstr ""
+msgstr "கோப்புறை பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_game_is_read_only"
-msgstr ""
+msgstr "விளையாட்டு படிக்க மட்டுமே"
 
 msgid "ckdg_ib_html_exists"
-msgstr ""
+msgstr "உஉகுமொ ஆவண பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_html_read_only"
-msgstr ""
+msgstr "உஉகுமொ ஆவணம் படிக்க மட்டுமே"
 
 msgid "ckdg_ib_illegal_characters_entered"
-msgstr ""
+msgstr "புலம் '%s' ஐக் கொண்டிருக்க முடியவில்லை"
 
 msgid "ckdg_ib_image_exists"
-msgstr ""
+msgstr "படத்தின் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_image_read_only"
-msgstr ""
+msgstr "படம் படிக்க மட்டுமே"
 
 msgid "ckdg_ib_link_exists"
-msgstr ""
+msgstr "குறுக்குவழி பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_link_read_only"
-msgstr ""
+msgstr "குறுக்குவழி படிக்க மட்டுமே"
 
 msgid "ckdg_ib_maximum_characters_reached"
-msgstr ""
+msgstr "அதிகபட்ச எழுத்துக்கள் அடைந்தன"
 
 msgid "ckdg_ib_message_exists"
-msgstr ""
+msgstr "செய்தி பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_message_read_only"
-msgstr ""
+msgstr "செய்தி படிக்க மட்டுமே"
 
 msgid "ckdg_ib_no_marks_to_clear"
-msgstr ""
+msgstr "குறுக்கு எதுவும் இல்லை"
 
 msgid "ckdg_ib_nothing_duplicate"
-msgstr ""
+msgstr "நகல் எதுவும் இல்லை"
 
 msgid "ckdg_ib_nothing_to_rename"
-msgstr ""
+msgstr "மறுபெயரிட எதுவும் இல்லை"
 
 msgid "ckdg_ib_nothing_to_send"
-msgstr ""
+msgstr "அனுப்ப எதுவும் இல்லை"
 
 msgid "ckdg_ib_nothing_to_sort"
-msgstr ""
+msgstr "வரிசைப்படுத்த எதுவும் இல்லை"
 
 msgid "ckdg_ib_sound_clip_read_only"
-msgstr ""
+msgstr "ஆடியோ கிளிப் படிக்க மட்டுமே"
 
 msgid "ckdg_ib_sound_exists"
-msgstr ""
+msgstr "ஆடியோ கிளிப் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_unable_to_copy_folder_into_itself"
-msgstr ""
+msgstr "கோப்புறையை தானே நகலெடுக்க முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
 msgstr ""
+"அசல் கோப்புறையில் ஒரு துணை கோப்புறையை நகலெடுக்கவோ அல்லது நகர்த்தவோ முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_mark"
-msgstr ""
+msgstr "இந்த உருப்படியைக் குறிக்க முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_move_folder_into_itself"
-msgstr ""
+msgstr "கோப்புறையை தனக்குள் நகர்த்த முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_move_to_current_location"
-msgstr ""
+msgstr "தற்போதைய இடத்திற்கு செல்ல முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_paste_to_same_location"
-msgstr ""
+msgstr "அசல் இடத்தில் ஒட்ட முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_rename"
-msgstr ""
+msgstr "மறுபெயரிட முடியவில்லை"
 
 msgid "ckdg_ib_unable_to_unmark"
-msgstr ""
+msgstr "இந்த உருப்படியை மதிப்பிட முடியவில்லை"
 
 msgid "ckdg_ib_video_clip_read_only"
-msgstr ""
+msgstr "வீடியோ கிளிப் படிக்க மட்டுமே"
 
 msgid "ckdg_ib_video_exists"
-msgstr ""
+msgstr "வீடியோ கிளிப் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_xml_exists"
-msgstr ""
+msgstr "எக்ச்எம்எல் ஆவண பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது"
 
 msgid "ckdg_ib_xml_read_only"
-msgstr ""
+msgstr "எக்ச்எம்எல் ஆவணம் படிக்க மட்டுமே"
 
 msgid "ckdg_nc_dialog_c_passwd_remove_pwd"
-msgstr ""
+msgstr "கடவுச்சொல் பாதுகாப்பை அகற்றவா?"
 
 msgid "ckdg_pb_updating"
-msgstr ""
+msgstr "புதுப்பித்தல்"
 
 msgid "ecdg_ib_find_rep_enter_text"
-msgstr ""
+msgstr "காணப்பட வேண்டிய உரையை உள்ளிடவும்"
 
 msgid "ecdg_ib_password_is_empty"
-msgstr ""
+msgstr "முதலில் கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "ecdg_ib_passwords_do_not_match"
-msgstr ""
+msgstr "கடவுச்சொற்கள் பொருந்தவில்லை"
 
 msgid "ecdg_ib_set_password_incorrect"
-msgstr ""
+msgstr "தவறான கடவுச்சொல்"
 
 msgid "ecoc_ib_edwin_cannot_find"
-msgstr ""
+msgstr "போட்டிகள் எதுவும் கிடைக்கவில்லை"
 
 msgid "ecoc_ib_edwin_copied"
-msgstr ""
+msgstr "நகலெடுக்கப்பட்டது"
 
 msgid "ecoc_ib_edwin_file_read_only"
-msgstr ""
+msgstr "ஆவணம் படிக்க மட்டுமே"
 
 msgid "ecoc_ib_edwin_nothing_to_copy"
-msgstr ""
+msgstr "நகலெடுக்க எதுவும் இல்லை"
 
 msgid "ecoc_ib_edwin_nothing_to_cut"
-msgstr ""
+msgstr "வெட்ட எதுவும் இல்லை"
 
 msgid "ecoc_ib_edwin_nothing_to_paste"
-msgstr ""
+msgstr "ஒட்டுவதற்கு எதுவும் இல்லை"
 
 msgid "ecoc_ib_nothing_to_undo"
-msgstr ""
+msgstr "செயல்தவிர்க்க எதுவும் இல்லை"
 
 msgid "file_ib_name_too_long"
-msgstr ""
+msgstr "பெயர் மிக நீளமானது"
 
 msgid "sfil_ib_nothing_to_view"
-msgstr ""
+msgstr "பார்க்க எதுவும் இல்லை"
 
 msgid "sfil_ib_saved"
-msgstr ""
+msgstr "சேமிக்கப்பட்டது"
 
 msgid "sfil_ib_saving"
-msgstr ""
+msgstr "சேமிப்பு"
 
 msgid "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
 msgstr ""
+"அசல் கோப்புறையில் ஒரு துணை கோப்புறையை நகலெடுக்கவோ அல்லது நகர்த்தவோ முடியவில்லை"
 
 msgid "sfil_ib_unable_to_cut_selected_folder"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை வெட்ட முடியவில்லை"
 
 msgid "sfil_ib_unable_to_cut_selected_items"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட பொருட்களை வெட்ட முடியவில்லை"
 
 msgid "sfil_ib_unable_to_delete_selected_folder"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை நீக்க முடியவில்லை"
 
 msgid "sfil_ib_unable_to_delete_selected_items"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட பொருட்களை நீக்க முடியவில்லை"
 
 msgid "sfil_ib_unable_to_move_selected_folder"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை நகர்த்த முடியவில்லை"
 
 msgid "sfil_ib_unable_to_move_selected_items"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட பொருட்களை நகர்த்த முடியவில்லை"
 
 msgid "sfil_ib_unable_to_open_folder_not_found"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" கோப்புறை கிடைக்கவில்லை."
 
 msgid "sfil_ib_unable_to_rename_selected_folder"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை மறுபெயரிட முடியவில்லை"
 
 msgid "sfil_ib_unable_to_send"
-msgstr ""
+msgstr "அனுப்ப முடியவில்லை"
 
 msgid "sfil_ib_unable_to_send_folders"
-msgstr ""
+msgstr "கோப்புறைகளை அனுப்ப முடியவில்லை"
 
 msgid "sfil_nc_save_before_closing"
-msgstr ""
+msgstr "மூடுவதற்கு முன் கோப்பைச் சேமிக்கவா?"
 
 msgid "sfil_nc_save_before_closing_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "sfil_nc_save_before_closing_no"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "sfil_nc_save_before_closing_yes"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "sfil_ni_cannot_continue_target_folder_deleted"
 msgstr ""
+"தொடர முடியவில்லை.\n"
+" கோப்புறை கிடைக்கவில்லை."
 
 msgid "sfil_ni_cannot_continue_target_folder_deleted_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_cannot_open_mmc_cover_open"
 msgstr ""
+"திறப்பு குறுக்கிடப்பட்டது.\n"
+" நினைவக அட்டை கவர் திறந்திருக்கும்."
 
 msgid "sfil_ni_cannot_open_mmc_cover_open_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_cannot_open_no_connection"
 msgstr ""
+"திறப்பு குறுக்கிடப்பட்டது.\n"
+" இணைப்பு இல்லை."
 
 msgid "sfil_ni_cannot_open_no_connection_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_folder_not_found_switched_to_another_folder"
 msgstr ""
+"கோப்புறை கிடைக்கவில்லை.\n"
+" சாதனம் மற்றொரு கோப்புறைக்கு மாறியது."
 
 msgid "sfil_ni_folder_not_found_switched_to_another_folder_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_not_enough_memory"
-msgstr ""
+msgstr "இலக்கு இடத்தில் போதுமான நினைவகம் இல்லை"
 
 msgid "sfil_ni_not_enough_memory_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_operation_failed"
-msgstr ""
+msgstr "செயல்பாடு தோல்வியடைந்தது"
 
 msgid "sfil_ni_operation_failed_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_unable_to_open_file_not_found"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" கோப்பு கிடைக்கவில்லை."
 
 msgid "sfil_ni_unable_to_open_file_not_found_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_unable_to_open_too_large"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" கோப்பு மிகப் பெரியது."
 
 msgid "sfil_ni_unable_to_open_too_large_ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "sfil_ni_unable_to_rename_file_not_found"
 msgstr ""
+"மறுபெயரிட முடியவில்லை.\n"
+" கோப்பு கிடைக்கவில்லை."
 
 msgid "sfil_ni_unable_to_rename_file_not_found_ok"
-msgstr ""
+msgstr "சரி"
